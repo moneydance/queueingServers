@@ -1,0 +1,972 @@
+Monitor Event Number: 1
+===================================================
+CLOCK: 2.16817534986464
+Rho: 1.0387892043036668
+IO slowdown 89.63602047942625
+CPU slowdown 4.510942969708534
+IO Tasks through system: 5
+CPU Tasks through system: 4
+===================================================
+Monitor Event Number: 2
+===================================================
+CLOCK: 2.299780012681026
+Rho: 1.1972926845325698
+IO slowdown 89.63602047942625
+CPU slowdown 3.9429094682604933
+IO Tasks through system: 5
+CPU Tasks through system: 5
+===================================================
+Monitor Event Number: 3
+===================================================
+CLOCK: 3.351983622793284
+Rho: 0.8406187932451743
+IO slowdown 50.51146296360199
+CPU slowdown 3.9429094682604933
+IO Tasks through system: 9
+CPU Tasks through system: 5
+===================================================
+Monitor Event Number: 4
+===================================================
+CLOCK: 4.222534678807335
+Rho: 0.6711207000123499
+IO slowdown 38.01768056851419
+CPU slowdown 3.9429094682604933
+IO Tasks through system: 12
+CPU Tasks through system: 5
+===================================================
+Monitor Event Number: 5
+===================================================
+CLOCK: 4.338914214427177
+Rho: 0.6532018812458621
+IO slowdown 35.09598589371034
+CPU slowdown 3.9429094682604933
+IO Tasks through system: 13
+CPU Tasks through system: 5
+===================================================
+Monitor Event Number: 6
+===================================================
+CLOCK: 4.410568107504091
+Rho: 0.6653749707067995
+IO slowdown 35.09598589371034
+CPU slowdown 3.341588277940764
+IO Tasks through system: 13
+CPU Tasks through system: 6
+===================================================
+Monitor Event Number: 7
+===================================================
+CLOCK: 4.58962069604749
+Rho: 0.6394170280472591
+IO slowdown 35.09598589371034
+CPU slowdown 3.341588277940764
+IO Tasks through system: 13
+CPU Tasks through system: 6
+===================================================
+Monitor Event Number: 8
+===================================================
+CLOCK: 5.493538214542085
+Rho: 0.5849483256096915
+IO slowdown 32.82542040087948
+CPU slowdown 2.6432221660991817
+IO Tasks through system: 14
+CPU Tasks through system: 8
+===================================================
+Monitor Event Number: 9
+===================================================
+CLOCK: 5.9727683689337425
+Rho: 0.538014498767999
+IO slowdown 32.82542040087948
+CPU slowdown 2.6432221660991817
+IO Tasks through system: 14
+CPU Tasks through system: 8
+===================================================
+Monitor Event Number: 10
+===================================================
+CLOCK: 8.168383197667609
+Rho: 0.6246816560025139
+IO slowdown 26.330534683472504
+CPU slowdown 2.26006550506275
+IO Tasks through system: 21
+CPU Tasks through system: 14
+===================================================
+Monitor Event Number: 11
+===================================================
+CLOCK: 9.277738055606733
+Rho: 0.5831278657710812
+IO slowdown 23.247644182626214
+CPU slowdown 2.033088154475024
+IO Tasks through system: 24
+CPU Tasks through system: 16
+===================================================
+Monitor Event Number: 12
+===================================================
+CLOCK: 10.445781999025371
+Rho: 0.5816238253288795
+IO slowdown 22.33132537965113
+CPU slowdown 2.0433008811123954
+IO Tasks through system: 25
+CPU Tasks through system: 17
+===================================================
+Monitor Event Number: 13
+===================================================
+CLOCK: 10.887969912709352
+Rho: 0.5585712453278783
+IO slowdown 21.496240666625496
+CPU slowdown 2.0433008811123954
+IO Tasks through system: 26
+CPU Tasks through system: 17
+===================================================
+Monitor Event Number: 14
+===================================================
+CLOCK: 10.913712605141711
+Rho: 0.5572537167937971
+IO slowdown 21.496240666625496
+CPU slowdown 2.0433008811123954
+IO Tasks through system: 26
+CPU Tasks through system: 17
+===================================================
+Monitor Event Number: 15
+===================================================
+CLOCK: 11.103558597726916
+Rho: 0.5477259258558387
+IO slowdown 21.496240666625496
+CPU slowdown 2.0433008811123954
+IO Tasks through system: 26
+CPU Tasks through system: 17
+===================================================
+Monitor Event Number: 16
+===================================================
+CLOCK: 11.326587571336844
+Rho: 0.5373355105044368
+IO slowdown 20.71664212965033
+CPU slowdown 2.0433008811123954
+IO Tasks through system: 27
+CPU Tasks through system: 17
+===================================================
+Monitor Event Number: 17
+===================================================
+CLOCK: 12.123437359984948
+Rho: 0.5020175000042273
+IO slowdown 20.71664212965033
+CPU slowdown 2.0433008811123954
+IO Tasks through system: 27
+CPU Tasks through system: 17
+===================================================
+Monitor Event Number: 18
+===================================================
+CLOCK: 12.187480820449949
+Rho: 0.49937947017772605
+IO slowdown 20.71664212965033
+CPU slowdown 2.0433008811123954
+IO Tasks through system: 27
+CPU Tasks through system: 17
+===================================================
+Monitor Event Number: 19
+===================================================
+CLOCK: 14.05932068235694
+Rho: 0.5995300295668069
+IO slowdown 20.71664212965033
+CPU slowdown 2.3636373561367408
+IO Tasks through system: 27
+CPU Tasks through system: 18
+===================================================
+Monitor Event Number: 20
+===================================================
+CLOCK: 14.060385501912236
+Rho: 0.5994846260251058
+IO slowdown 20.71664212965033
+CPU slowdown 2.3636373561367408
+IO Tasks through system: 27
+CPU Tasks through system: 18
+===================================================
+Monitor Event Number: 21
+===================================================
+CLOCK: 15.002760855250742
+Rho: 0.6024280366947907
+IO slowdown 31.068271806614405
+CPU slowdown 2.8000190381308796
+IO Tasks through system: 29
+CPU Tasks through system: 21
+===================================================
+Monitor Event Number: 22
+===================================================
+CLOCK: 15.895305961488816
+Rho: 0.6232498376892797
+IO slowdown 36.305220480949444
+CPU slowdown 2.8407105006343003
+IO Tasks through system: 34
+CPU Tasks through system: 24
+===================================================
+Monitor Event Number: 23
+===================================================
+CLOCK: 16.33383761943844
+Rho: 0.633963430424959
+IO slowdown 36.1792866687705
+CPU slowdown 2.6930398655827767
+IO Tasks through system: 35
+CPU Tasks through system: 26
+===================================================
+Monitor Event Number: 24
+===================================================
+CLOCK: 19.037355281641112
+Rho: 0.5779613276742044
+IO slowdown 36.1792866687705
+CPU slowdown 2.405945595145005
+IO Tasks through system: 35
+CPU Tasks through system: 30
+===================================================
+Monitor Event Number: 25
+===================================================
+CLOCK: 19.762072570916075
+Rho: 0.5795190567027315
+IO slowdown 35.8366055657468
+CPU slowdown 2.2425580093798545
+IO Tasks through system: 36
+CPU Tasks through system: 33
+===================================================
+Monitor Event Number: 26
+===================================================
+CLOCK: 20.691290826237847
+Rho: 0.5546496785907153
+IO slowdown 33.141277321231996
+CPU slowdown 2.2425580093798545
+IO Tasks through system: 39
+CPU Tasks through system: 33
+===================================================
+Monitor Event Number: 27
+===================================================
+CLOCK: 25.817199431776928
+Rho: 0.5778920698861194
+IO slowdown 32.63695202948442
+CPU slowdown 2.1742293643716724
+IO Tasks through system: 46
+CPU Tasks through system: 42
+===================================================
+Monitor Event Number: 28
+===================================================
+CLOCK: 26.166744221400037
+Rho: 0.5701723795691251
+IO slowdown 32.63695202948442
+CPU slowdown 2.1742293643716724
+IO Tasks through system: 46
+CPU Tasks through system: 42
+===================================================
+Monitor Event Number: 29
+===================================================
+CLOCK: 27.035659418813097
+Rho: 0.6033397726897642
+IO slowdown 33.824015679525694
+CPU slowdown 2.2697152864728545
+IO Tasks through system: 47
+CPU Tasks through system: 45
+===================================================
+Monitor Event Number: 30
+===================================================
+CLOCK: 27.63908487876097
+Rho: 0.5906157516018569
+IO slowdown 33.14516177160297
+CPU slowdown 2.2697152864728545
+IO Tasks through system: 48
+CPU Tasks through system: 45
+===================================================
+Monitor Event Number: 31
+===================================================
+CLOCK: 28.820347128096813
+Rho: 0.5837531139978583
+IO slowdown 31.848102094036168
+CPU slowdown 2.231130970213139
+IO Tasks through system: 50
+CPU Tasks through system: 47
+===================================================
+Monitor Event Number: 32
+===================================================
+CLOCK: 28.872200437757044
+Rho: 0.6013657091030363
+IO slowdown 31.848102094036168
+CPU slowdown 2.222064624103908
+IO Tasks through system: 50
+CPU Tasks through system: 48
+===================================================
+Monitor Event Number: 33
+===================================================
+CLOCK: 29.782343813050744
+Rho: 0.5919332031209396
+IO slowdown 31.848102094036168
+CPU slowdown 2.194839283482159
+IO Tasks through system: 50
+CPU Tasks through system: 49
+===================================================
+Monitor Event Number: 34
+===================================================
+CLOCK: 29.908368304742652
+Rho: 0.5894389820962823
+IO slowdown 31.848102094036168
+CPU slowdown 2.194839283482159
+IO Tasks through system: 50
+CPU Tasks through system: 49
+===================================================
+Monitor Event Number: 35
+===================================================
+CLOCK: 30.581107686926373
+Rho: 0.5938628937388983
+IO slowdown 31.848102094036168
+CPU slowdown 2.1700058528299797
+IO Tasks through system: 50
+CPU Tasks through system: 51
+===================================================
+Monitor Event Number: 36
+===================================================
+CLOCK: 32.47202509931398
+Rho: 0.576068967468258
+IO slowdown 30.817146273939247
+CPU slowdown 2.044317196183465
+IO Tasks through system: 52
+CPU Tasks through system: 55
+===================================================
+Monitor Event Number: 37
+===================================================
+CLOCK: 33.14432894446048
+Rho: 0.5667892179268634
+IO slowdown 29.18883215594825
+CPU slowdown 2.0108341919214494
+IO Tasks through system: 55
+CPU Tasks through system: 56
+===================================================
+Monitor Event Number: 38
+===================================================
+CLOCK: 33.43526417945887
+Rho: 0.5618573306408222
+IO slowdown 29.18883215594825
+CPU slowdown 2.0108341919214494
+IO Tasks through system: 55
+CPU Tasks through system: 56
+===================================================
+Monitor Event Number: 39
+===================================================
+CLOCK: 34.227508745660145
+Rho: 0.5571804461454051
+IO slowdown 28.224922607830564
+CPU slowdown 1.956847718274342
+IO Tasks through system: 57
+CPU Tasks through system: 58
+===================================================
+Monitor Event Number: 40
+===================================================
+CLOCK: 34.3174193561465
+Rho: 0.5612664117018137
+IO slowdown 28.224922607830564
+CPU slowdown 1.9412535118483456
+IO Tasks through system: 57
+CPU Tasks through system: 59
+===================================================
+Monitor Event Number: 41
+===================================================
+CLOCK: 34.452740992192815
+Rho: 0.5590618994655726
+IO slowdown 28.224922607830564
+CPU slowdown 1.9412535118483456
+IO Tasks through system: 57
+CPU Tasks through system: 59
+===================================================
+Monitor Event Number: 42
+===================================================
+CLOCK: 36.22037338429416
+Rho: 0.5399723578406382
+IO slowdown 26.875530765180798
+CPU slowdown 1.9235247553647055
+IO Tasks through system: 60
+CPU Tasks through system: 60
+===================================================
+Monitor Event Number: 43
+===================================================
+CLOCK: 40.16619926787695
+Rho: 0.5083080087619319
+IO slowdown 23.0536352756677
+CPU slowdown 1.8693015685769023
+IO Tasks through system: 71
+CPU Tasks through system: 63
+===================================================
+Monitor Event Number: 44
+===================================================
+CLOCK: 40.959155842434456
+Rho: 0.5121560216333695
+IO slowdown 23.10465850715699
+CPU slowdown 1.8316240205568393
+IO Tasks through system: 72
+CPU Tasks through system: 66
+===================================================
+Monitor Event Number: 45
+===================================================
+CLOCK: 42.9811805944187
+Rho: 0.5024091553555888
+IO slowdown 22.238649204227645
+CPU slowdown 1.7911648196631103
+IO Tasks through system: 75
+CPU Tasks through system: 69
+===================================================
+Monitor Event Number: 46
+===================================================
+CLOCK: 43.404041656541494
+Rho: 0.5066183078796048
+IO slowdown 22.03741303732201
+CPU slowdown 1.764072661986434
+IO Tasks through system: 76
+CPU Tasks through system: 71
+===================================================
+Monitor Event Number: 47
+===================================================
+CLOCK: 46.18378818079452
+Rho: 0.5128399124760767
+IO slowdown 22.369404122700242
+CPU slowdown 1.7436611587675879
+IO Tasks through system: 80
+CPU Tasks through system: 76
+===================================================
+Monitor Event Number: 48
+===================================================
+CLOCK: 46.29086374058676
+Rho: 0.5116536606701069
+IO slowdown 22.369404122700242
+CPU slowdown 1.7436611587675879
+IO Tasks through system: 80
+CPU Tasks through system: 76
+===================================================
+Monitor Event Number: 49
+===================================================
+CLOCK: 49.36194222281475
+Rho: 0.49288383756972975
+IO slowdown 21.596629953894997
+CPU slowdown 1.715895734158279
+IO Tasks through system: 83
+CPU Tasks through system: 79
+===================================================
+Monitor Event Number: 50
+===================================================
+CLOCK: 52.294765060749995
+Rho: 0.5177113152563032
+IO slowdown 26.198433531481175
+CPU slowdown 1.8922783306197473
+IO Tasks through system: 91
+CPU Tasks through system: 83
+===================================================
+Monitor Event Number: 51
+===================================================
+CLOCK: 52.778296776922446
+Rho: 0.5180415212590493
+IO slowdown 25.950650391748958
+CPU slowdown 1.8790814025756597
+IO Tasks through system: 92
+CPU Tasks through system: 84
+===================================================
+Monitor Event Number: 52
+===================================================
+CLOCK: 54.08699240345652
+Rho: 0.5269929285324132
+IO slowdown 27.494519571901943
+CPU slowdown 1.9009304362663006
+IO Tasks through system: 96
+CPU Tasks through system: 85
+===================================================
+Monitor Event Number: 53
+===================================================
+CLOCK: 54.64106499648432
+Rho: 0.5216491026308124
+IO slowdown 27.494519571901943
+CPU slowdown 1.9009304362663006
+IO Tasks through system: 96
+CPU Tasks through system: 85
+===================================================
+Monitor Event Number: 54
+===================================================
+CLOCK: 54.76469015861113
+Rho: 0.5204715381326063
+IO slowdown 27.494519571901943
+CPU slowdown 1.9009304362663006
+IO Tasks through system: 96
+CPU Tasks through system: 85
+===================================================
+Monitor Event Number: 55
+===================================================
+CLOCK: 55.00575809174828
+Rho: 0.5181905224297583
+IO slowdown 27.494519571901943
+CPU slowdown 1.9009304362663006
+IO Tasks through system: 96
+CPU Tasks through system: 85
+===================================================
+Monitor Event Number: 56
+===================================================
+CLOCK: 56.06123987006336
+Rho: 0.5189560923074764
+IO slowdown 27.219825195367005
+CPU slowdown 1.8795055143671562
+IO Tasks through system: 97
+CPU Tasks through system: 87
+===================================================
+Monitor Event Number: 57
+===================================================
+CLOCK: 58.64405927430553
+Rho: 0.5015540540999743
+IO slowdown 26.955425424044897
+CPU slowdown 1.8282167094056192
+IO Tasks through system: 98
+CPU Tasks through system: 90
+===================================================
+Monitor Event Number: 58
+===================================================
+CLOCK: 59.32295196502699
+Rho: 0.497439213109321
+IO slowdown 26.752665900011763
+CPU slowdown 1.8114664457231424
+IO Tasks through system: 99
+CPU Tasks through system: 91
+===================================================
+Monitor Event Number: 59
+===================================================
+CLOCK: 59.65304997649383
+Rho: 0.499204432880339
+IO slowdown 26.433328404983605
+CPU slowdown 1.8019937033175053
+IO Tasks through system: 101
+CPU Tasks through system: 92
+===================================================
+Monitor Event Number: 60
+===================================================
+CLOCK: 61.295731028950854
+Rho: 0.5000190564934224
+IO slowdown 26.32676605731096
+CPU slowdown 1.7778943943970558
+IO Tasks through system: 102
+CPU Tasks through system: 95
+===================================================
+Monitor Event Number: 61
+===================================================
+CLOCK: 61.32262865687383
+Rho: 0.4997997357168911
+IO slowdown 26.32676605731096
+CPU slowdown 1.7778943943970558
+IO Tasks through system: 102
+CPU Tasks through system: 95
+===================================================
+Monitor Event Number: 62
+===================================================
+CLOCK: 62.65585837746886
+Rho: 0.4953769935731769
+IO slowdown 26.32676605731096
+CPU slowdown 1.7728898401709294
+IO Tasks through system: 102
+CPU Tasks through system: 96
+===================================================
+Monitor Event Number: 63
+===================================================
+CLOCK: 63.97712006107804
+Rho: 0.48669832689987885
+IO slowdown 25.385176072681514
+CPU slowdown 1.756363185219727
+IO Tasks through system: 106
+CPU Tasks through system: 97
+===================================================
+Monitor Event Number: 64
+===================================================
+CLOCK: 64.68324905951602
+Rho: 0.4913047307414937
+IO slowdown 25.385176072681514
+CPU slowdown 1.7602652264954146
+IO Tasks through system: 106
+CPU Tasks through system: 98
+===================================================
+Monitor Event Number: 65
+===================================================
+CLOCK: 65.60787342472159
+Rho: 0.486081712838312
+IO slowdown 25.23560871141847
+CPU slowdown 1.7437508131378157
+IO Tasks through system: 113
+CPU Tasks through system: 99
+===================================================
+Monitor Event Number: 66
+===================================================
+CLOCK: 65.9678476215274
+Rho: 0.48727090107761667
+IO slowdown 25.01675152883238
+CPU slowdown 1.7346655104650603
+IO Tasks through system: 114
+CPU Tasks through system: 100
+===================================================
+Monitor Event Number: 67
+===================================================
+CLOCK: 67.50024426806712
+Rho: 0.48444449420458324
+IO slowdown 24.643638475533518
+CPU slowdown 1.7016506069934934
+IO Tasks through system: 116
+CPU Tasks through system: 103
+===================================================
+Monitor Event Number: 68
+===================================================
+CLOCK: 67.65278499608965
+Rho: 0.48335218860568224
+IO slowdown 24.643638475533518
+CPU slowdown 1.7016506069934934
+IO Tasks through system: 116
+CPU Tasks through system: 103
+===================================================
+Monitor Event Number: 69
+===================================================
+CLOCK: 68.72726807453233
+Rho: 0.483888297967257
+IO slowdown 24.426852538780047
+CPU slowdown 1.6868068423132667
+IO Tasks through system: 118
+CPU Tasks through system: 105
+===================================================
+Monitor Event Number: 70
+===================================================
+CLOCK: 70.94628179205549
+Rho: 0.4746347339676372
+IO slowdown 23.54890689779725
+CPU slowdown 1.6663243066532885
+IO Tasks through system: 124
+CPU Tasks through system: 107
+===================================================
+Monitor Event Number: 71
+===================================================
+CLOCK: 71.26976311549362
+Rho: 0.4743957263588103
+IO slowdown 23.54890689779725
+CPU slowdown 1.6551083857963031
+IO Tasks through system: 124
+CPU Tasks through system: 108
+===================================================
+Monitor Event Number: 72
+===================================================
+CLOCK: 72.84564103928403
+Rho: 0.4645005640691278
+IO slowdown 23.00362652337099
+CPU slowdown 1.6403156232574114
+IO Tasks through system: 127
+CPU Tasks through system: 109
+===================================================
+Monitor Event Number: 73
+===================================================
+CLOCK: 73.14342836614429
+Rho: 0.46275341760760236
+IO slowdown 22.832137331192683
+CPU slowdown 1.6403156232574114
+IO Tasks through system: 128
+CPU Tasks through system: 109
+===================================================
+Monitor Event Number: 74
+===================================================
+CLOCK: 74.51625691359908
+Rho: 0.45919486228904965
+IO slowdown 22.61820454895935
+CPU slowdown 1.6217644080306846
+IO Tasks through system: 130
+CPU Tasks through system: 111
+===================================================
+Monitor Event Number: 75
+===================================================
+CLOCK: 75.59559734966044
+Rho: 0.4656655464555177
+IO slowdown 22.61820454895935
+CPU slowdown 1.5974039520189989
+IO Tasks through system: 130
+CPU Tasks through system: 115
+===================================================
+Monitor Event Number: 76
+===================================================
+CLOCK: 77.42715270348626
+Rho: 0.4635501752487393
+IO slowdown 22.45580654815215
+CPU slowdown 1.587331815996637
+IO Tasks through system: 131
+CPU Tasks through system: 118
+===================================================
+Monitor Event Number: 77
+===================================================
+CLOCK: 78.29933316005256
+Rho: 0.4625923323403992
+IO slowdown 22.45580654815215
+CPU slowdown 1.5700235341326574
+IO Tasks through system: 131
+CPU Tasks through system: 120
+===================================================
+Monitor Event Number: 78
+===================================================
+CLOCK: 78.44540184252727
+Rho: 0.46173096569658356
+IO slowdown 22.45580654815215
+CPU slowdown 1.5700235341326574
+IO Tasks through system: 131
+CPU Tasks through system: 120
+===================================================
+Monitor Event Number: 79
+===================================================
+CLOCK: 79.63058304046174
+Rho: 0.46088794028501734
+IO slowdown 22.314617401489045
+CPU slowdown 1.557392145711135
+IO Tasks through system: 132
+CPU Tasks through system: 122
+===================================================
+Monitor Event Number: 80
+===================================================
+CLOCK: 79.93057751014732
+Rho: 0.46141333190128697
+IO slowdown 22.314617401489045
+CPU slowdown 1.5543905584261857
+IO Tasks through system: 132
+CPU Tasks through system: 123
+===================================================
+Monitor Event Number: 81
+===================================================
+CLOCK: 80.3196789899338
+Rho: 0.4591780564059939
+IO slowdown 22.314617401489045
+CPU slowdown 1.5543905584261857
+IO Tasks through system: 132
+CPU Tasks through system: 123
+===================================================
+Monitor Event Number: 82
+===================================================
+CLOCK: 80.74297999786725
+Rho: 0.4570104742394652
+IO slowdown 21.99600631384132
+CPU slowdown 1.5543905584261857
+IO Tasks through system: 134
+CPU Tasks through system: 123
+===================================================
+Monitor Event Number: 83
+===================================================
+CLOCK: 81.50019998275246
+Rho: 0.45276438080080833
+IO slowdown 21.99600631384132
+CPU slowdown 1.5543905584261857
+IO Tasks through system: 134
+CPU Tasks through system: 123
+===================================================
+Monitor Event Number: 84
+===================================================
+CLOCK: 81.72108526043854
+Rho: 0.45154059644135164
+IO slowdown 21.99600631384132
+CPU slowdown 1.5543905584261857
+IO Tasks through system: 134
+CPU Tasks through system: 123
+===================================================
+Monitor Event Number: 85
+===================================================
+CLOCK: 82.23849473708574
+Rho: 0.4487049421751228
+IO slowdown 21.83339252280563
+CPU slowdown 1.5543905584261857
+IO Tasks through system: 135
+CPU Tasks through system: 123
+===================================================
+Monitor Event Number: 86
+===================================================
+CLOCK: 83.3330648553397
+Rho: 0.4591946519482973
+IO slowdown 21.83339252280563
+CPU slowdown 1.5813397638129019
+IO Tasks through system: 135
+CPU Tasks through system: 125
+===================================================
+Monitor Event Number: 87
+===================================================
+CLOCK: 85.3229903889287
+Rho: 0.46837008428340465
+IO slowdown 23.131138869678246
+CPU slowdown 1.611138056949513
+IO Tasks through system: 138
+CPU Tasks through system: 130
+===================================================
+Monitor Event Number: 88
+===================================================
+CLOCK: 85.65859653613953
+Rho: 0.4665350334442417
+IO slowdown 23.131138869678246
+CPU slowdown 1.611138056949513
+IO Tasks through system: 138
+CPU Tasks through system: 130
+===================================================
+Monitor Event Number: 89
+===================================================
+CLOCK: 86.55415775340421
+Rho: 0.46170787443429206
+IO slowdown 23.131138869678246
+CPU slowdown 1.611138056949513
+IO Tasks through system: 138
+CPU Tasks through system: 130
+===================================================
+Monitor Event Number: 90
+===================================================
+CLOCK: 87.35819782682964
+Rho: 0.475390242058648
+IO slowdown 23.49096959009513
+CPU slowdown 1.6307995197085048
+IO Tasks through system: 139
+CPU Tasks through system: 132
+===================================================
+Monitor Event Number: 91
+===================================================
+CLOCK: 87.85402003742138
+Rho: 0.47270727956460545
+IO slowdown 23.49096959009513
+CPU slowdown 1.6307995197085048
+IO Tasks through system: 139
+CPU Tasks through system: 132
+===================================================
+Monitor Event Number: 92
+===================================================
+CLOCK: 88.89531667904288
+Rho: 0.47160183222611074
+IO slowdown 23.238124677972667
+CPU slowdown 1.6282718053769833
+IO Tasks through system: 141
+CPU Tasks through system: 133
+===================================================
+Monitor Event Number: 93
+===================================================
+CLOCK: 89.73150405467771
+Rho: 0.46720708254941484
+IO slowdown 23.238124677972667
+CPU slowdown 1.6282718053769833
+IO Tasks through system: 141
+CPU Tasks through system: 133
+===================================================
+Monitor Event Number: 94
+===================================================
+CLOCK: 90.43902546242398
+Rho: 0.46823481716868903
+IO slowdown 22.933283622683863
+CPU slowdown 1.6263609160533747
+IO Tasks through system: 143
+CPU Tasks through system: 134
+===================================================
+Monitor Event Number: 95
+===================================================
+CLOCK: 91.13895893346665
+Rho: 0.4657885167042557
+IO slowdown 22.933283622683863
+CPU slowdown 1.6169009572499424
+IO Tasks through system: 143
+CPU Tasks through system: 135
+===================================================
+Monitor Event Number: 96
+===================================================
+CLOCK: 91.60699943279576
+Rho: 0.46340869975478827
+IO slowdown 22.933283622683863
+CPU slowdown 1.6169009572499424
+IO Tasks through system: 143
+CPU Tasks through system: 135
+===================================================
+Monitor Event Number: 97
+===================================================
+CLOCK: 92.00487779037482
+Rho: 0.47287566668240727
+IO slowdown 22.844616203310135
+CPU slowdown 1.638566691677881
+IO Tasks through system: 144
+CPU Tasks through system: 137
+===================================================
+Monitor Event Number: 98
+===================================================
+CLOCK: 92.05709238485827
+Rho: 0.47260745257160647
+IO slowdown 22.844616203310135
+CPU slowdown 1.638566691677881
+IO Tasks through system: 144
+CPU Tasks through system: 137
+===================================================
+Monitor Event Number: 99
+===================================================
+CLOCK: 93.27793640747751
+Rho: 0.47498415892771223
+IO slowdown 22.561723182479582
+CPU slowdown 1.6449250425644624
+IO Tasks through system: 146
+CPU Tasks through system: 138
+===================================================
+Monitor Event Number: 100
+===================================================
+CLOCK: 93.57541868988605
+Rho: 0.4749436074693901
+IO slowdown 22.561723182479582
+CPU slowdown 1.652967961551944
+IO Tasks through system: 146
+CPU Tasks through system: 139
+===================================================
+Monitor Event Number: 101
+===================================================
+CLOCK: 95.24265828536446
+Rho: 0.4780008221041693
+IO slowdown 22.730436116134562
+CPU slowdown 1.6864678807955507
+IO Tasks through system: 147
+CPU Tasks through system: 141
+===================================================
+Monitor Event Number: 102
+===================================================
+CLOCK: 96.48226373850454
+Rho: 0.47215453776822336
+IO slowdown 22.580070521968796
+CPU slowdown 1.6751478346091673
+IO Tasks through system: 148
+CPU Tasks through system: 142
+===================================================
+Monitor Event Number: 103
+===================================================
+CLOCK: 96.90981391471485
+Rho: 0.4742319661371981
+IO slowdown 22.542811760055617
+CPU slowdown 1.6724196926448678
+IO Tasks through system: 150
+CPU Tasks through system: 143
+===================================================
+Monitor Event Number: 104
+===================================================
+CLOCK: 97.57948229891974
+Rho: 0.4711512393468072
+IO slowdown 22.404755012764287
+CPU slowdown 1.6724196926448678
+IO Tasks through system: 151
+CPU Tasks through system: 143
+===================================================
+Monitor Event Number: 105
+===================================================
+CLOCK: 98.25260691004752
+Rho: 0.4743091352918805
+IO slowdown 22.459164618897415
+CPU slowdown 1.6753257782395705
+IO Tasks through system: 152
+CPU Tasks through system: 144
+===================================================
+Monitor Event Number: 106
+===================================================
+CLOCK: 98.48408055073898
+Rho: 0.4731943351968269
+IO slowdown 22.459164618897415
+CPU slowdown 1.6753257782395705
+IO Tasks through system: 152
+CPU Tasks through system: 144
+===================================================
+Monitor Event Number: 107
+===================================================
+CLOCK: 99.14860918682601
+Rho: 0.47002282135763696
+IO slowdown 22.459164618897415
+CPU slowdown 1.6753257782395705
+IO Tasks through system: 152
+CPU Tasks through system: 144
+===================================================
+Monitor Event Number: 108
+===================================================
+CLOCK: 99.93198036811833
+Rho: 0.4664916299663837
+IO slowdown 22.322387976953312
+CPU slowdown 1.6753257782395705
+IO Tasks through system: 153
+CPU Tasks through system: 144
+===================================================

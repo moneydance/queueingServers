@@ -1,0 +1,2261 @@
+Monitor Event Number: 1
+===================================================
+CLOCK: 0.04608483441867861
+W: 3.0
+Q: 4.0
+Wt: 0.0
+Qt: 0.006742515836596122
+Rho: 0.14630660870647108
+W stdev: 0.0
+Q stdev: 0.0
+Wt stdev: 0.0
+Qt stdev: 0.0
+W Confidence Interval: 0.0
+Q Confidence Interval: 0.0
+Wt Confidence Interval: 0.0
+Qt Confidence Interval: 0.0
+Monitors through system: 1
+Tasks through system: 1
+===================================================
+Monitor Event Number: 2
+===================================================
+CLOCK: 0.9079541034873273
+W: 5.5
+Q: 6.5
+Wt: 0.0372819379592848
+Qt: 0.051373121875573684
+Rho: 0.822544602964873
+W stdev: 2.5
+Q stdev: 2.5
+Wt stdev: 0.03488871569975918
+Qt stdev: 0.03756530029599343
+W Confidence Interval: 5.851308614318681
+Q Confidence Interval: 5.851308614318681
+Wt Confidence Interval: 0.01586262442772217
+Qt Confidence Interval: 0.017079569659081986
+Monitors through system: 2
+Tasks through system: 53
+===================================================
+Monitor Event Number: 3
+===================================================
+CLOCK: 1.0651847357853654
+W: 5.666666666666667
+Q: 6.666666666666667
+Wt: 0.051402918144892285
+Qt: 0.06536587806895655
+Rho: 0.8782686077664674
+W stdev: 2.054804667656325
+Q stdev: 2.0548046676563234
+Wt stdev: 0.04212669597946336
+Qt stdev: 0.043638552084149025
+W Confidence Interval: 3.926792112691515
+Q Confidence Interval: 3.9267921126915124
+Wt Confidence Interval: 0.0170352295836513
+Qt Confidence Interval: 0.017646595256699107
+Monitors through system: 3
+Tasks through system: 67
+===================================================
+Monitor Event Number: 4
+===================================================
+CLOCK: 1.7809897294682742
+W: 6.25
+Q: 7.25
+Wt: 0.07100269595534
+Qt: 0.0866921713461619
+Rho: 0.916179028799134
+W stdev: 2.0463381929681126
+Q stdev: 2.0463381929681126
+Wt stdev: 0.04858281424602475
+Qt stdev: 0.05068414604479763
+W Confidence Interval: 3.3866897093622264
+Q Confidence Interval: 3.3866897093622264
+Wt Confidence Interval: 0.01576863107953036
+Qt Confidence Interval: 0.016450664972065654
+Monitors through system: 4
+Tasks through system: 104
+===================================================
+Monitor Event Number: 5
+===================================================
+CLOCK: 2.273413903623421
+W: 5.2
+Q: 6.2
+Wt: 0.06873587190768708
+Qt: 0.08390395420215074
+Rho: 0.8873680863604976
+W stdev: 2.7856776554368228
+Q stdev: 2.7856776554368237
+Wt stdev: 0.050095141307173296
+Qt stdev: 0.05192790370697168
+W Confidence Interval: 4.123574565834839
+Q Confidence Interval: 4.123574565834841
+Wt Confidence Interval: 0.014377976825668111
+Qt Confidence Interval: 0.01490400419326601
+Monitors through system: 5
+Tasks through system: 133
+===================================================
+Monitor Event Number: 6
+===================================================
+CLOCK: 3.3767829390231583
+W: 4.333333333333333
+Q: 5.333333333333333
+Wt: 0.05412773447036983
+Qt: 0.06872187759072751
+Rho: 0.868703384304728
+W stdev: 3.1972210155418135
+Q stdev: 3.197221015541813
+Wt stdev: 0.04805623113573363
+Qt stdev: 0.05004495131844097
+W Confidence Interval: 4.320410645777569
+Q Confidence Interval: 4.320410645777569
+Wt Confidence Interval: 0.011219659394217749
+Qt Confidence Interval: 0.011683964699753694
+Monitors through system: 6
+Tasks through system: 201
+===================================================
+Monitor Event Number: 7
+===================================================
+CLOCK: 5.190219240140834
+W: 4.0
+Q: 5.0
+Wt: 0.06067660087315101
+Qt: 0.07507042576960715
+Rho: 0.8818965260027871
+W stdev: 3.0705978943149534
+Q stdev: 3.0705978943149543
+Wt stdev: 0.04890157568088569
+Qt stdev: 0.05017524041116473
+W Confidence Interval: 3.8415095884778605
+Q Confidence Interval: 3.841509588477862
+Wt Confidence Interval: 0.009076894479844647
+Qt Confidence Interval: 0.009313306501307617
+Monitors through system: 7
+Tasks through system: 318
+===================================================
+Monitor Event Number: 8
+===================================================
+CLOCK: 5.409005707469717
+W: 3.5
+Q: 4.375
+Wt: 0.058890995990906435
+Qt: 0.07315709233719615
+Rho: 0.8782778832630845
+W stdev: 3.1622776601683795
+Q stdev: 3.314268395890713
+Wt stdev: 0.048648536683879244
+Qt stdev: 0.05001250962248108
+W Confidence Interval: 3.700692502762152
+Q Confidence Interval: 3.8785614430078965
+Wt Confidence Interval: 0.00882420641507139
+Qt Confidence Interval: 0.009071613214437309
+Monitors through system: 8
+Tasks through system: 333
+===================================================
+Monitor Event Number: 9
+===================================================
+CLOCK: 5.979801074104088
+W: 4.777777777777778
+Q: 5.666666666666667
+Wt: 0.05775951789323499
+Qt: 0.07239231039194909
+Rho: 0.8589098706461773
+W stdev: 4.685148587179559
+Q stdev: 4.807401700618652
+Wt stdev: 0.048387973712142034
+Qt stdev: 0.05005825369564973
+W Confidence Interval: 5.16928060785478
+Q Confidence Interval: 5.304166543015912
+Wt Confidence Interval: 0.008548932176240146
+Qt Confidence Interval: 0.008844028440846816
+Monitors through system: 9
+Tasks through system: 351
+===================================================
+Monitor Event Number: 10
+===================================================
+CLOCK: 6.225838011281752
+W: 4.9
+Q: 5.8
+Wt: 0.06579554321324248
+Qt: 0.08020773552515777
+Rho: 0.8657725939686931
+W stdev: 4.459820624195551
+Q stdev: 4.578209256903839
+Wt stdev: 0.05692454591054842
+Qt stdev: 0.057854607429464695
+W Confidence Interval: 4.668156263451341
+Q Confidence Interval: 4.792075291562101
+Wt Confidence Interval: 0.009742979025086198
+Qt Confidence Interval: 0.00990216465803056
+Monitors through system: 10
+Tasks through system: 374
+===================================================
+Monitor Event Number: 11
+===================================================
+CLOCK: 6.656790158543174
+W: 4.909090909090909
+Q: 5.818181818181818
+Wt: 0.06700539714195186
+Qt: 0.08142436066100806
+Rho: 0.8642553403489691
+W stdev: 4.252369295827818
+Q stdev: 4.365529892197443
+Wt stdev: 0.05705296063264592
+Qt stdev: 0.05814564084593713
+W Confidence Interval: 4.243875403126865
+Q Confidence Interval: 4.356809966925781
+Wt Confidence Interval: 0.009454089992448228
+Qt Confidence Interval: 0.009635155040692395
+Monitors through system: 11
+Tasks through system: 399
+===================================================
+Monitor Event Number: 12
+===================================================
+CLOCK: 7.559506213151224
+W: 4.583333333333333
+Q: 5.5
+Wt: 0.06650507715780814
+Qt: 0.08083106943074932
+Rho: 0.8774295880374369
+W stdev: 4.2122506520333705
+Q stdev: 4.310839052125854
+Wt stdev: 0.054443069942483636
+Qt stdev: 0.055523392965794685
+W Confidence Interval: 4.024867399184539
+Q Confidence Interval: 4.119070064279612
+Wt Confidence Interval: 0.008374909149582443
+Qt Confidence Interval: 0.00854109388497651
+Monitors through system: 12
+Tasks through system: 463
+===================================================
+Monitor Event Number: 13
+===================================================
+CLOCK: 7.598836624609859
+W: 4.461538461538462
+Q: 5.384615384615385
+Wt: 0.0664320103275483
+Qt: 0.08077972251676327
+Rho: 0.87609969587121
+W stdev: 4.0689326632117515
+Q stdev: 4.160962565014929
+Wt stdev: 0.0544070921593009
+Qt stdev: 0.05547453290787278
+W Confidence Interval: 3.735397470806379
+Q Confidence Interval: 3.819883573400861
+Wt Confidence Interval: 0.00836035114508929
+Qt Confidence Interval: 0.008524377177918032
+Monitors through system: 13
+Tasks through system: 464
+===================================================
+Monitor Event Number: 14
+===================================================
+CLOCK: 8.162221135644472
+W: 4.142857142857143
+Q: 5.071428571428571
+Wt: 0.06285866356645209
+Qt: 0.077067190393769
+Rho: 0.8669020653095905
+W stdev: 4.085814184592882
+Q stdev: 4.165578089092381
+Wt stdev: 0.05434649075921787
+Qt stdev: 0.05556374768390673
+W Confidence Interval: 3.6144530492843647
+Q Confidence Interval: 3.6850149678679833
+Wt Confidence Interval: 0.00806092403841224
+Qt Confidence Interval: 0.008241473241646377
+Monitors through system: 14
+Tasks through system: 498
+===================================================
+Monitor Event Number: 15
+===================================================
+CLOCK: 8.933346483348814
+W: 3.8666666666666667
+Q: 4.733333333333333
+Wt: 0.059741622428485436
+Qt: 0.07385139206379439
+Rho: 0.863958876430003
+W stdev: 4.080304999493162
+Q stdev: 4.2184778718817
+Wt stdev: 0.05332086424083912
+Qt stdev: 0.05451144683130113
+W Confidence Interval: 3.4871850305134426
+Q Confidence Interval: 3.605272862740741
+Wt Confidence Interval: 0.00754625559023772
+Qt Confidence Interval: 0.007714753244145444
+Monitors through system: 15
+Tasks through system: 547
+===================================================
+Monitor Event Number: 16
+===================================================
+CLOCK: 9.001272130872252
+W: 3.6875
+Q: 4.5625
+Wt: 0.059632604869309366
+Qt: 0.07372986734053474
+Rho: 0.8582453370935765
+W stdev: 4.01121474743001
+Q stdev: 4.137764342008858
+Wt stdev: 0.05333317353353818
+Qt stdev: 0.05453580137543225
+W Confidence Interval: 3.3192802034983333
+Q Confidence Interval: 3.4239999930123304
+Wt Confidence Interval: 0.0075411076636973705
+Qt Confidence Interval: 0.007711154661357844
+Monitors through system: 16
+Tasks through system: 548
+===================================================
+Monitor Event Number: 17
+===================================================
+CLOCK: 9.146884708910235
+W: 3.4705882352941178
+Q: 4.352941176470588
+Wt: 0.05854216727463102
+Qt: 0.07258560643073027
+Rho: 0.8597819014548957
+W stdev: 3.987003106548363
+Q stdev: 4.100805895984324
+Wt stdev: 0.05328486692588313
+Qt stdev: 0.05451392645322667
+W Confidence Interval: 3.2007378614507633
+Q Confidence Interval: 3.2920979349576363
+Wt Confidence Interval: 0.007453115745181261
+Qt Confidence Interval: 0.007625028024285772
+Monitors through system: 17
+Tasks through system: 560
+===================================================
+Monitor Event Number: 18
+===================================================
+CLOCK: 9.38659857214546
+W: 3.4444444444444446
+Q: 4.333333333333333
+Wt: 0.05851619345208118
+Qt: 0.07269013109850474
+Rho: 0.8622205726496694
+W stdev: 3.876169676113868
+Q stdev: 3.986086914367133
+Wt stdev: 0.05290644014788299
+Qt stdev: 0.05413782830924399
+W Confidence Interval: 3.024088668854124
+Q Confidence Interval: 3.1098432932612505
+Wt Confidence Interval: 0.007328557173193381
+Qt Confidence Interval: 0.007499128062440571
+Monitors through system: 18
+Tasks through system: 571
+===================================================
+Monitor Event Number: 19
+===================================================
+CLOCK: 10.809374174050546
+W: 3.5789473684210527
+Q: 4.473684210526316
+Wt: 0.06261371744239597
+Qt: 0.0766813247120903
+Rho: 0.869352980555988
+W stdev: 3.815698728503549
+Q stdev: 3.9252009141019113
+Wt stdev: 0.05505011295086663
+Qt stdev: 0.05640299172956075
+W Confidence Interval: 2.8975121825347023
+Q Confidence Interval: 2.980664427866677
+Wt Confidence Interval: 0.007050143826753984
+Qt Confidence Interval: 0.007223403961178589
+Monitors through system: 19
+Tasks through system: 668
+===================================================
+Monitor Event Number: 20
+===================================================
+CLOCK: 12.450016666751154
+W: 4.3
+Q: 5.2
+Wt: 0.06526894846957991
+Qt: 0.0795611116223011
+Rho: 0.8713042016951834
+W stdev: 4.869291529575941
+Q stdev: 4.965883607174055
+Wt stdev: 0.05785639020811642
+Qt stdev: 0.05956507849794333
+W Confidence Interval: 3.603950131452987
+Q Confidence Interval: 3.6754416469316986
+Wt Confidence Interval: 0.006951178474713179
+Qt Confidence Interval: 0.007156469493000265
+Monitors through system: 20
+Tasks through system: 759
+===================================================
+Monitor Event Number: 21
+===================================================
+CLOCK: 13.583054674956955
+W: 6.0
+Q: 6.904761904761905
+Wt: 0.08582257864807283
+Qt: 0.10021983767035576
+Rho: 0.8755126322454675
+W stdev: 8.965542503437948
+Q stdev: 9.033824069809143
+Wt stdev: 0.08920130496465468
+Qt stdev: 0.0905510534918591
+W Confidence Interval: 6.475822258439657
+Q Confidence Interval: 6.525142116906465
+Wt Confidence Interval: 0.010273281253132493
+Qt Confidence Interval: 0.010428731291071587
+Monitors through system: 21
+Tasks through system: 826
+===================================================
+Monitor Event Number: 22
+===================================================
+CLOCK: 13.81894748423062
+W: 7.363636363636363
+Q: 8.272727272727273
+Wt: 0.09432762212680718
+Qt: 0.10881599675160385
+Rho: 0.8838371969096156
+W stdev: 10.759965590285697
+Q stdev: 10.825818542144424
+Wt stdev: 0.10643079954549332
+Qt stdev: 0.10788239721280123
+W Confidence Interval: 7.593247150693182
+Q Confidence Interval: 7.639719208142646
+Wt Confidence Interval: 0.012133372510053456
+Qt Confidence Interval: 0.012298858208811577
+Monitors through system: 22
+Tasks through system: 843
+===================================================
+Monitor Event Number: 23
+===================================================
+CLOCK: 14.473371682626137
+W: 8.695652173913043
+Q: 9.608695652173912
+Wt: 0.11581786358170644
+Qt: 0.13034605118810538
+Rho: 0.888351816950652
+W stdev: 12.238338842267257
+Q stdev: 12.303195521400413
+Wt stdev: 0.14176136323227112
+Qt stdev: 0.1429182880948299
+W Confidence Interval: 8.44668987452735
+Q Confidence Interval: 8.491452833127376
+Wt Confidence Interval: 0.015772997676174655
+Qt Confidence Interval: 0.015901722264825436
+Monitors through system: 23
+Tasks through system: 885
+===================================================
+Monitor Event Number: 24
+===================================================
+CLOCK: 15.897175572608191
+W: 9.166666666666666
+Q: 10.083333333333334
+Wt: 0.14973057006294657
+Qt: 0.16403928725287018
+Rho: 0.8982790490248751
+W stdev: 12.191754955251065
+Q stdev: 12.257367399060678
+Wt stdev: 0.167232556729205
+Qt stdev: 0.16768260607092914
+W Confidence Interval: 8.237370460679882
+Q Confidence Interval: 8.281701568750385
+Wt Confidence Interval: 0.017521995023133372
+Qt Confidence Interval: 0.017569149491617784
+Monitors through system: 24
+Tasks through system: 998
+===================================================
+Monitor Event Number: 25
+===================================================
+CLOCK: 16.322310474294753
+W: 9.24
+Q: 10.16
+Wt: 0.1525200548815694
+Qt: 0.16678296281638433
+Rho: 0.9017915087395245
+W stdev: 11.95083260697764
+Q stdev: 12.015589873160618
+Wt stdev: 0.16590467273068438
+Qt stdev: 0.16628676369947945
+W Confidence Interval: 7.911451185819198
+Q Confidence Interval: 7.954320496032328
+Wt Confidence Interval: 0.0170941205878535
+Qt Confidence Interval: 0.017133489636287205
+Monitors through system: 25
+Tasks through system: 1032
+===================================================
+Monitor Event Number: 26
+===================================================
+CLOCK: 17.851571311573053
+W: 9.0
+Q: 9.923076923076923
+Wt: 0.15158334586851813
+Qt: 0.1658572087618224
+Rho: 0.9099286381613704
+W stdev: 11.780035261799124
+Q stdev: 11.841657488333544
+Wt stdev: 0.15863122868161436
+Qt stdev: 0.1590228439662954
+W Confidence Interval: 7.646944008080737
+Q Confidence Interval: 7.686945731801385
+Wt Confidence Interval: 0.015564871902511246
+Qt Confidence Interval: 0.015603297134363668
+Monitors through system: 26
+Tasks through system: 1138
+===================================================
+Monitor Event Number: 27
+===================================================
+CLOCK: 18.326965295547225
+W: 8.851851851851851
+Q: 9.777777777777779
+Wt: 0.14884157463933317
+Qt: 0.1631383921469107
+Rho: 0.9127139280353129
+W stdev: 11.584484207267172
+Q stdev: 11.643893116719179
+Wt stdev: 0.15734497429121871
+Qt stdev: 0.15772127292306534
+W Confidence Interval: 7.379429933289166
+Q Confidence Interval: 7.41727399063953
+Wt Confidence Interval: 0.015226074088808144
+Qt Confidence Interval: 0.015262488031317738
+Monitors through system: 27
+Tasks through system: 1170
+===================================================
+Monitor Event Number: 28
+===================================================
+CLOCK: 18.5293777632088
+W: 8.607142857142858
+Q: 9.535714285714286
+Wt: 0.1480772217322238
+Qt: 0.16236229461367085
+Rho: 0.912795157386032
+W stdev: 11.446581790817621
+Q stdev: 11.50304972871214
+Wt stdev: 0.1565902496568497
+Qt stdev: 0.15698272259884113
+W Confidence Interval: 7.160194075905225
+Q Confidence Interval: 7.195516533017727
+Wt Confidence Interval: 0.015063186704586281
+Qt Confidence Interval: 0.015100940608259535
+Monitors through system: 28
+Tasks through system: 1184
+===================================================
+Monitor Event Number: 29
+===================================================
+CLOCK: 18.536556092560474
+W: 8.379310344827585
+Q: 9.310344827586206
+Wt: 0.1480772217322238
+Qt: 0.16236229461367085
+Rho: 0.9124416750974336
+W stdev: 11.311921673092016
+Q stdev: 11.365718110042849
+Wt stdev: 0.1565902496568497
+Qt stdev: 0.15698272259884113
+W Confidence Interval: 6.952890408911747
+Q Confidence Interval: 6.985956473309878
+Wt Confidence Interval: 0.015063186704586281
+Qt Confidence Interval: 0.015100940608259535
+Monitors through system: 29
+Tasks through system: 1184
+===================================================
+Monitor Event Number: 30
+===================================================
+CLOCK: 18.674691471746982
+W: 8.233333333333333
+Q: 9.166666666666666
+Wt: 0.1476369858382459
+Qt: 0.16197677641221675
+Rho: 0.9137688196264023
+W stdev: 11.149539103578329
+Q stdev: 11.201438399697702
+Wt stdev: 0.15633392758090203
+Qt stdev: 0.1566939956759883
+W Confidence Interval: 6.737895660340077
+Q Confidence Interval: 6.7692594717809635
+Wt Confidence Interval: 0.01500056965324768
+Qt Confidence Interval: 0.015035118945418818
+Monitors through system: 30
+Tasks through system: 1190
+===================================================
+Monitor Event Number: 31
+===================================================
+CLOCK: 18.910052741735527
+W: 8.129032258064516
+Q: 9.064516129032258
+Wt: 0.14702474692229073
+Qt: 0.16142811807214272
+Rho: 0.9147752778496387
+W stdev: 10.983101199875259
+Q stdev: 11.033484180120332
+Wt stdev: 0.15575548446932364
+Qt stdev: 0.1560815526592384
+W Confidence Interval: 6.529382819122901
+Q Confidence Interval: 6.559335175893694
+Wt Confidence Interval: 0.014876468194061724
+Qt Confidence Interval: 0.014907611515100398
+Monitors through system: 31
+Tasks through system: 1201
+===================================================
+Monitor Event Number: 32
+===================================================
+CLOCK: 19.078467785995926
+W: 8.3125
+Q: 9.25
+Wt: 0.14670364206763892
+Qt: 0.16114138595840832
+Rho: 0.9156746916885163
+W stdev: 10.858284567554858
+Q stdev: 10.908712114635714
+Wt stdev: 0.15523123702321695
+Qt stdev: 0.15554629174859275
+W Confidence Interval: 6.353517402685733
+Q Confidence Interval: 6.38302411674905
+Wt Confidence Interval: 0.01477115403296454
+Qt Confidence Interval: 0.014801133320423567
+Monitors through system: 32
+Tasks through system: 1210
+===================================================
+Monitor Event Number: 33
+===================================================
+CLOCK: 20.22857644651984
+W: 8.212121212121213
+Q: 9.151515151515152
+Wt: 0.14181541817822857
+Qt: 0.15612766861364077
+Rho: 0.9134164908226139
+W stdev: 10.70756621685516
+Q stdev: 10.756594065322632
+Wt stdev: 0.1519459522531125
+Qt stdev: 0.1522989636571991
+W Confidence Interval: 6.169667972748072
+Q Confidence Interval: 6.1979176739720865
+Wt Confidence Interval: 0.013997613828920459
+Qt Confidence Interval: 0.014030134058899196
+Monitors through system: 33
+Tasks through system: 1291
+===================================================
+Monitor Event Number: 34
+===================================================
+CLOCK: 21.51026900185279
+W: 8.294117647058824
+Q: 9.235294117647058
+Wt: 0.1382930624833367
+Qt: 0.15253148501866312
+Rho: 0.904204646700625
+W stdev: 10.559437963443235
+Q stdev: 10.60815120425413
+Wt stdev: 0.1489630779196949
+Qt stdev: 0.14938469912241062
+W Confidence Interval: 5.994173899787318
+Q Confidence Interval: 6.021826473499442
+Wt Confidence Interval: 0.013340781811976132
+Qt Confidence Interval: 0.013378541212166329
+Monitors through system: 34
+Tasks through system: 1366
+===================================================
+Monitor Event Number: 35
+===================================================
+CLOCK: 22.518765774082397
+W: 8.742857142857142
+Q: 9.685714285714285
+Wt: 0.14246145543411934
+Qt: 0.15695292424481144
+Rho: 0.9105929060610203
+W stdev: 10.731376844542915
+Q stdev: 10.780329781786904
+Wt stdev: 0.14956474888333662
+Qt stdev: 0.15008687149012526
+W Confidence Interval: 6.004120745110469
+Q Confidence Interval: 6.031509527584378
+Wt Confidence Interval: 0.013160700925798841
+Qt Confidence Interval: 0.013206644234806122
+Monitors through system: 35
+Tasks through system: 1415
+===================================================
+Monitor Event Number: 36
+===================================================
+CLOCK: 23.485206035027574
+W: 9.166666666666666
+Q: 10.11111111111111
+Wt: 0.1510120013709367
+Qt: 0.16555745013017034
+Rho: 0.9147728057120462
+W stdev: 10.874281585465774
+Q stdev: 10.923414651761645
+Wt stdev: 0.15208884957230032
+Qt stdev: 0.15264051473949403
+W Confidence Interval: 5.998978674648619
+Q Confidence Interval: 6.026083749555174
+Wt Confidence Interval: 0.013098908876323232
+Qt Confidence Interval: 0.013146421969989422
+Monitors through system: 36
+Tasks through system: 1477
+===================================================
+Monitor Event Number: 37
+===================================================
+CLOCK: 23.987774359966323
+W: 9.405405405405405
+Q: 10.35135135135135
+Wt: 0.15465288724438134
+Qt: 0.1691879424097206
+Rho: 0.916175176579549
+W stdev: 10.821548721303174
+Q stdev: 10.870779619015412
+Wt stdev: 0.1523237064546247
+Qt stdev: 0.15284388128579446
+W Confidence Interval: 5.888660964339405
+Q Confidence Interval: 5.915450481539168
+Wt Confidence Interval: 0.012966405431832653
+Qt Confidence Interval: 0.01301068480182285
+Monitors through system: 37
+Tasks through system: 1512
+===================================================
+Monitor Event Number: 38
+===================================================
+CLOCK: 24.281335852823986
+W: 9.5
+Q: 10.447368421052632
+Wt: 0.15640705029888974
+Qt: 0.17095166902515221
+Rho: 0.9176742179134388
+W stdev: 10.693702032406492
+Q stdev: 10.742677722697428
+Wt stdev: 0.15211777026728357
+Qt stdev: 0.15263903653870692
+W Confidence Interval: 5.742014360199946
+Q Confidence Interval: 5.7683119993242675
+Wt Confidence Interval: 0.012864074959163512
+Qt Confidence Interval: 0.01290815664914287
+Monitors through system: 38
+Tasks through system: 1532
+===================================================
+Monitor Event Number: 39
+===================================================
+CLOCK: 24.70399781986619
+W: 9.384615384615385
+Q: 10.333333333333334
+Wt: 0.15727811658472562
+Qt: 0.1718324158849199
+Rho: 0.9190701470206691
+W stdev: 10.579649998125658
+Q stdev: 10.62733131788837
+Wt stdev: 0.15100027085182982
+Qt stdev: 0.15151576076476647
+W Confidence Interval: 5.607470411163761
+Q Confidence Interval: 5.6327426640059635
+Wt Confidence Interval: 0.012654454275068398
+Qt Confidence Interval: 0.012697654485874092
+Monitors through system: 39
+Tasks through system: 1560
+===================================================
+Monitor Event Number: 40
+===================================================
+CLOCK: 24.98118256006265
+W: 9.225
+Q: 10.175
+Wt: 0.15694386152068301
+Qt: 0.1715280965575528
+Rho: 0.9194989119447028
+W stdev: 10.494016152074476
+Q stdev: 10.540131640544153
+Wt stdev: 0.1505002517291753
+Qt stdev: 0.15100249136137164
+W Confidence Interval: 5.492116315541533
+Q Confidence Interval: 5.516251177061964
+Wt Confidence Interval: 0.012552347132054616
+Qt Confidence Interval: 0.01259423600688619
+Monitors through system: 40
+Tasks through system: 1575
+===================================================
+Monitor Event Number: 41
+===================================================
+CLOCK: 25.00953345225966
+W: 9.121951219512194
+Q: 10.073170731707316
+Wt: 0.1568936415471344
+Qt: 0.17149137285004096
+Rho: 0.9198901921659712
+W stdev: 10.385719844119969
+Q stdev: 10.430701035539363
+Wt stdev: 0.15046569694941217
+Qt stdev: 0.1509616122518565
+W Confidence Interval: 5.368743664705072
+Q Confidence Interval: 5.391996023721908
+Wt Confidence Interval: 0.012545483058599857
+Qt Confidence Interval: 0.012586831333664887
+Monitors through system: 41
+Tasks through system: 1576
+===================================================
+Monitor Event Number: 42
+===================================================
+CLOCK: 25.547554240580496
+W: 9.023809523809524
+Q: 9.976190476190476
+Wt: 0.1551703597482449
+Qt: 0.16980455645209844
+Rho: 0.9210974983436003
+W stdev: 10.280559775471964
+Q stdev: 10.324469536097922
+Wt stdev: 0.14953707217887446
+Qt stdev: 0.1500010368555179
+W Confidence Interval: 5.250735130503232
+Q Confidence Interval: 5.27316178116488
+Wt Confidence Interval: 0.012343372767789986
+Qt Confidence Interval: 0.012381670220531651
+Monitors through system: 42
+Tasks through system: 1608
+===================================================
+Monitor Event Number: 43
+===================================================
+CLOCK: 27.043554415932604
+W: 9.046511627906977
+Q: 10.0
+Wt: 0.15021796854163097
+Qt: 0.1648952729816406
+Rho: 0.9166682314722282
+W stdev: 10.161380350225938
+Q stdev: 10.204877994553435
+Wt stdev: 0.1478664682736224
+Qt stdev: 0.14831505348269605
+W Confidence Interval: 5.129162680610568
+Q Confidence Interval: 5.151118998186467
+Wt Confidence Interval: 0.011909207686483854
+Qt Confidence Interval: 0.011945336867645179
+Monitors through system: 43
+Tasks through system: 1689
+===================================================
+Monitor Event Number: 44
+===================================================
+CLOCK: 27.089200924605265
+W: 9.022727272727273
+Q: 9.977272727272727
+Wt: 0.15024851113002397
+Qt: 0.16491848347642404
+Rho: 0.9157495382313006
+W stdev: 10.04645716921605
+Q stdev: 10.089347749806672
+Wt stdev: 0.14778167623320043
+Qt stdev: 0.1482288618707436
+W Confidence Interval: 5.013194939446518
+Q Confidence Interval: 5.034597393858576
+Wt Confidence Interval: 0.01189533776619663
+Qt Confidence Interval: 0.011931332920253305
+Monitors through system: 44
+Tasks through system: 1691
+===================================================
+Monitor Event Number: 45
+===================================================
+CLOCK: 27.406888607117082
+W: 9.022222222222222
+Q: 9.977777777777778
+Wt: 0.15017788484017625
+Qt: 0.1648564354563952
+Rho: 0.9179821947999462
+W stdev: 9.934203292752189
+Q stdev: 9.976614631535732
+Wt stdev: 0.14682211789527108
+Qt stdev: 0.14727021033854326
+W Confidence Interval: 4.901790886187081
+Q Confidence Interval: 4.922717729316196
+Wt Confidence Interval: 0.011738539600829833
+Qt Confidence Interval: 0.011774364931274494
+Monitors through system: 45
+Tasks through system: 1714
+===================================================
+Monitor Event Number: 46
+===================================================
+CLOCK: 27.52476908132911
+W: 9.130434782608695
+Q: 10.08695652173913
+Wt: 0.1501920013857545
+Qt: 0.16487962828386385
+Rho: 0.9178176278283209
+W stdev: 9.852407994456227
+Q stdev: 9.894719907182209
+Wt stdev: 0.14657705407478802
+Qt stdev: 0.14702319785352086
+W Confidence Interval: 4.808298997953339
+Q Confidence Interval: 4.828948602362363
+Wt Confidence Interval: 0.011698488682815622
+Qt Confidence Interval: 0.011734095947399829
+Monitors through system: 46
+Tasks through system: 1720
+===================================================
+Monitor Event Number: 47
+===================================================
+CLOCK: 28.13995978696255
+W: 9.404255319148936
+Q: 10.361702127659575
+Wt: 0.1511311376953903
+Qt: 0.16580660762241345
+Rho: 0.9157840091794205
+W stdev: 9.922378692306372
+Q stdev: 9.964672773640897
+Wt stdev: 0.14525134212472268
+Qt stdev: 0.14568305153485936
+W Confidence Interval: 4.790654632690047
+Q Confidence Interval: 4.811074770135287
+Wt Confidence Interval: 0.011473235075747054
+Qt Confidence Interval: 0.01150733530142798
+Monitors through system: 47
+Tasks through system: 1756
+===================================================
+Monitor Event Number: 48
+===================================================
+CLOCK: 29.897857932106092
+W: 9.604166666666666
+Q: 10.5625
+Wt: 0.15581993630336688
+Qt: 0.17052841136591468
+Rho: 0.9243881185497376
+W stdev: 9.913668139100796
+Q stdev: 9.955957701296244
+Wt stdev: 0.14309104960843222
+Qt stdev: 0.14352037484676541
+W Confidence Interval: 4.736327796654247
+Q Confidence Interval: 4.756531945726439
+Wt Confidence Interval: 0.010926399438948757
+Qt Confidence Interval: 0.010959182614808376
+Monitors through system: 48
+Tasks through system: 1879
+===================================================
+Monitor Event Number: 49
+===================================================
+CLOCK: 30.780675004512887
+W: 9.428571428571429
+Q: 10.387755102040817
+Wt: 0.1554114030582983
+Qt: 0.17008845434760125
+Rho: 0.9250440250927839
+W stdev: 9.887117984570443
+Q stdev: 9.92793693045675
+Wt stdev: 0.14143681218800436
+Qt stdev: 0.14186046761094007
+W Confidence Interval: 4.6751943612754525
+Q Confidence Interval: 4.694495891401692
+Wt Confidence Interval: 0.010628931009304916
+Qt Confidence Interval: 0.01066076857826904
+Monitors through system: 49
+Tasks through system: 1940
+===================================================
+Monitor Event Number: 50
+===================================================
+CLOCK: 30.784309061976217
+W: 9.26
+Q: 10.22
+Wt: 0.1554114030582983
+Qt: 0.17008845434760125
+Rho: 0.9249348245537519
+W stdev: 9.858620593166165
+Q stdev: 9.89806041606132
+Wt stdev: 0.14143681218800436
+Qt stdev: 0.14186046761094007
+W Confidence Interval: 4.614866528167418
+Q Confidence Interval: 4.633328494203708
+Wt Confidence Interval: 0.010628931009304916
+Qt Confidence Interval: 0.01066076857826904
+Monitors through system: 50
+Tasks through system: 1940
+===================================================
+Monitor Event Number: 51
+===================================================
+CLOCK: 31.032454406791032
+W: 9.07843137254902
+Q: 10.019607843137255
+Wt: 0.15443532394757414
+Qt: 0.16911652538863062
+Rho: 0.9244214859636224
+W stdev: 9.845558642879961
+Q stdev: 9.902446115071733
+Wt stdev: 0.1414111716579925
+Qt stdev: 0.1418328505678205
+W Confidence Interval: 4.56334463532279
+Q Confidence Interval: 4.5897115638496055
+Wt Confidence Interval: 0.010588865567813138
+Qt Confidence Interval: 0.010620440875736827
+Monitors through system: 51
+Tasks through system: 1954
+===================================================
+Monitor Event Number: 52
+===================================================
+CLOCK: 32.55266733020699
+W: 9.01923076923077
+Q: 9.961538461538462
+Wt: 0.15114304549560745
+Qt: 0.16589522550665717
+Rho: 0.9249380119033311
+W stdev: 9.75959170137331
+Q stdev: 9.81553231140385
+Wt stdev: 0.13963138518256424
+Qt stdev: 0.1399906875118635
+W Confidence Interval: 4.479793249839236
+Q Confidence Interval: 4.50547079608038
+Wt Confidence Interval: 0.010230327521810207
+Qt Confidence Interval: 0.010256652409322243
+Monitors through system: 52
+Tasks through system: 2041
+===================================================
+Monitor Event Number: 53
+===================================================
+CLOCK: 34.170163865266716
+W: 8.867924528301886
+Q: 9.81132075471698
+Wt: 0.14661991544711644
+Qt: 0.16139669394824088
+Rho: 0.9206792672385097
+W stdev: 9.72845997207504
+Q stdev: 9.782650417908389
+Wt stdev: 0.1387262104716704
+Qt stdev: 0.13907197474228591
+W Confidence Interval: 4.423175336265532
+Q Confidence Interval: 4.447813752228525
+Wt Confidence Interval: 0.009951732322781423
+Qt Confidence Interval: 0.009976536240197231
+Monitors through system: 53
+Tasks through system: 2129
+===================================================
+Monitor Event Number: 54
+===================================================
+CLOCK: 34.19785609194042
+W: 8.75925925925926
+Q: 9.703703703703704
+Wt: 0.14657519928810403
+Qt: 0.16136573203686944
+Rho: 0.9212225079306823
+W stdev: 9.67037320737011
+Q stdev: 9.723262730916547
+Wt stdev: 0.13870898777081353
+Qt stdev: 0.13904666416296158
+W Confidence Interval: 4.355864374162218
+Q Confidence Interval: 4.379687611015865
+Wt Confidence Interval: 0.009948160754964215
+Qt Confidence Interval: 0.009972378789326889
+Monitors through system: 54
+Tasks through system: 2130
+===================================================
+Monitor Event Number: 55
+===================================================
+CLOCK: 34.7004231187432
+W: 8.745454545454546
+Q: 9.690909090909091
+Wt: 0.14551054609652078
+Qt: 0.16032678152039548
+Rho: 0.9222673857911174
+W stdev: 9.582594413961145
+Q stdev: 9.63492270530439
+Wt stdev: 0.13808696198488868
+Qt stdev: 0.1384071965650871
+W Confidence Interval: 4.276906499388066
+Q Confidence Interval: 4.300261678547244
+Wt Confidence Interval: 0.009834534158651475
+Qt Confidence Interval: 0.009857341220755479
+Monitors through system: 55
+Tasks through system: 2160
+===================================================
+Monitor Event Number: 56
+===================================================
+CLOCK: 34.87839510251575
+W: 8.625
+Q: 9.571428571428571
+Wt: 0.14530225827063953
+Qt: 0.16010530746157695
+Rho: 0.9218377952372218
+W stdev: 9.538573006482679
+Q stdev: 9.589535112479092
+Wt stdev: 0.1377478384699723
+Qt stdev: 0.13806908091913944
+W Confidence Interval: 4.219076386183991
+Q Confidence Interval: 4.241617810132158
+Wt Confidence Interval: 0.009783243791568842
+Qt Confidence Interval: 0.009806059345201562
+Monitors through system: 56
+Tasks through system: 2172
+===================================================
+Monitor Event Number: 57
+===================================================
+CLOCK: 35.66716080323184
+W: 8.666666666666666
+Q: 9.614035087719298
+Wt: 0.14442378814776788
+Qt: 0.1592882064202738
+Rho: 0.9214422471645752
+W stdev: 9.459671247826694
+Q stdev: 9.510390229352229
+Wt stdev: 0.13715035246998664
+Qt stdev: 0.13748399571726386
+W Confidence Interval: 4.1473110567865685
+Q Confidence Interval: 4.1695472833275415
+Wt Confidence Interval: 0.009654516976486786
+Qt Confidence Interval: 0.009678003349922339
+Monitors through system: 57
+Tasks through system: 2211
+===================================================
+Monitor Event Number: 58
+===================================================
+CLOCK: 36.06502170777222
+W: 8.655172413793103
+Q: 9.60344827586207
+Wt: 0.14478917355044954
+Qt: 0.15967854755402988
+Rho: 0.9223025510290944
+W stdev: 9.378169301789775
+Q stdev: 9.428386440320223
+Wt stdev: 0.13650237247201272
+Qt stdev: 0.13684012854821678
+W Confidence Interval: 4.075980200227208
+Q Confidence Interval: 4.0978057885457195
+Wt Confidence Interval: 0.009559311396322935
+Qt Confidence Interval: 0.009582964578681337
+Monitors through system: 58
+Tasks through system: 2234
+===================================================
+Monitor Event Number: 59
+===================================================
+CLOCK: 36.34328531787594
+W: 8.610169491525424
+Q: 9.559322033898304
+Wt: 0.14491968496326535
+Qt: 0.15982380332760027
+Rho: 0.9231188139619201
+W stdev: 9.304667953988712
+Q stdev: 9.354181855428607
+Wt stdev: 0.13603961679531806
+Qt stdev: 0.1363863034173217
+W Confidence Interval: 4.009616786173951
+Q Confidence Interval: 4.030953578775697
+Wt Confidence Interval: 0.009490861727285773
+Qt Confidence Interval: 0.009515048466925644
+Monitors through system: 59
+Tasks through system: 2251
+===================================================
+Monitor Event Number: 60
+===================================================
+CLOCK: 36.658679403614684
+W: 8.583333333333334
+Q: 9.533333333333333
+Wt: 0.1445516290986036
+Qt: 0.15947267076814572
+Rho: 0.9231353408542016
+W stdev: 9.229105530271548
+Q stdev: 9.278050561525424
+Wt stdev: 0.13561609585567155
+Qt stdev: 0.1359537557567768
+W Confidence Interval: 3.9437736461109503
+Q Confidence Interval: 3.964688795876437
+Wt Confidence Interval: 0.009425788840415951
+Qt Confidence Interval: 0.009449257374203275
+Monitors through system: 60
+Tasks through system: 2268
+===================================================
+Monitor Event Number: 61
+===================================================
+CLOCK: 38.81466027286936
+W: 8.508196721311476
+Q: 9.459016393442623
+Wt: 0.13944409131973504
+Qt: 0.15424090303449745
+Rho: 0.9210204817341469
+W stdev: 9.171629368480614
+Q stdev: 9.219675629036486
+Wt stdev: 0.13385729701024593
+Qt stdev: 0.13429021503642474
+W Confidence Interval: 3.886955535278289
+Q Confidence Interval: 3.907317640081485
+Wt Confidence Interval: 0.009014083563769723
+Qt Confidence Interval: 0.009043236694390158
+Monitors through system: 61
+Tasks through system: 2416
+===================================================
+Monitor Event Number: 62
+===================================================
+CLOCK: 42.90299906611369
+W: 8.435483870967742
+Q: 9.387096774193548
+Wt: 0.12969614771875998
+Qt: 0.14430975591976397
+Rho: 0.9077515955390524
+W stdev: 9.115072536547038
+Q stdev: 9.162255741953361
+Wt stdev: 0.1316454865516155
+Qt stdev: 0.13223151813311962
+W Confidence Interval: 3.8317068738970677
+Q Confidence Interval: 3.8515412977881582
+Wt Confidence Interval: 0.008440834032558369
+Qt Confidence Interval: 0.008478409155313333
+Monitors through system: 62
+Tasks through system: 2665
+===================================================
+Monitor Event Number: 63
+===================================================
+CLOCK: 43.31720820777622
+W: 8.396825396825397
+Q: 9.34920634920635
+Wt: 0.1290997769924987
+Qt: 0.14374413458196836
+Rho: 0.9087389245327119
+W stdev: 9.047563352655088
+Q stdev: 9.094143816273789
+Wt stdev: 0.13125783794874424
+Qt stdev: 0.13182787798756565
+W Confidence Interval: 3.773022124446278
+Q Confidence Interval: 3.7924471467368095
+Wt Confidence Interval: 0.008379895598142801
+Qt Confidence Interval: 0.008416288670638403
+Monitors through system: 63
+Tasks through system: 2688
+===================================================
+Monitor Event Number: 64
+===================================================
+CLOCK: 43.82198171402848
+W: 8.3125
+Q: 9.265625
+Wt: 0.1285447728409542
+Qt: 0.143217863543284
+Rho: 0.909409223151813
+W stdev: 9.001518969040726
+Q stdev: 9.047171843143856
+Wt stdev: 0.130746874512095
+Qt stdev: 0.13129768560677463
+W Confidence Interval: 3.7243784734406002
+Q Confidence Interval: 3.7432673501007705
+Wt Confidence Interval: 0.008304135497309566
+Qt Confidence Interval: 0.00833911920136146
+Monitors through system: 64
+Tasks through system: 2716
+===================================================
+Monitor Event Number: 65
+===================================================
+CLOCK: 44.94923217244596
+W: 8.384615384615385
+Q: 9.338461538461539
+Wt: 0.12966451809635113
+Qt: 0.1444030561428669
+Rho: 0.9102309347612911
+W stdev: 8.950620619122208
+Q stdev: 8.996199065890888
+Wt stdev: 0.1304980544907084
+Qt stdev: 0.13104915095071168
+W Confidence Interval: 3.674721793104031
+Q Confidence Interval: 3.693434251017717
+Wt Confidence Interval: 0.008198271563476654
+Qt Confidence Interval: 0.008232893063807905
+Monitors through system: 65
+Tasks through system: 2776
+===================================================
+Monitor Event Number: 66
+===================================================
+CLOCK: 46.641234545381224
+W: 8.287878787878787
+Q: 9.242424242424242
+Wt: 0.13111948726750486
+Qt: 0.14588307884004023
+Rho: 0.9122543887779796
+W stdev: 8.916727813183407
+Q stdev: 8.961298279285284
+Wt stdev: 0.13014795165534554
+Qt stdev: 0.13075497904685088
+W Confidence Interval: 3.632967693111197
+Q Confidence Interval: 3.6511271644786674
+Wt Confidence Interval: 0.008024506678867699
+Qt Confidence Interval: 0.008061934047454257
+Monitors through system: 66
+Tasks through system: 2882
+===================================================
+Monitor Event Number: 67
+===================================================
+CLOCK: 48.05338627914293
+W: 8.164179104477611
+Q: 9.104477611940299
+Wt: 0.12875695222019426
+Qt: 0.1434939770894547
+Rho: 0.909000282701141
+W stdev: 8.906809427448014
+Q stdev: 8.964497685702277
+Wt stdev: 0.1292338680566707
+Qt stdev: 0.12985137442779784
+W Confidence Interval: 3.6017432634255107
+Q Confidence Interval: 3.6250712909575395
+Wt Confidence Interval: 0.007857153493066187
+Qt Confidence Interval: 0.007894696610933437
+Monitors through system: 67
+Tasks through system: 2964
+===================================================
+Monitor Event Number: 68
+===================================================
+CLOCK: 48.33626982896703
+W: 8.044117647058824
+Q: 8.970588235294118
+Wt: 0.12838482058817427
+Qt: 0.14311724210297017
+Rho: 0.9061412748329248
+W stdev: 8.895527335374473
+Q stdev: 8.965572368191188
+Wt stdev: 0.12921630907810192
+Qt stdev: 0.12983699543526794
+W Confidence Interval: 3.5706331772277395
+Q Confidence Interval: 3.598749005401386
+Wt Confidence Interval: 0.00784418578100591
+Qt Confidence Interval: 0.00788186507344262
+Monitors through system: 68
+Tasks through system: 2973
+===================================================
+Monitor Event Number: 69
+===================================================
+CLOCK: 50.30531213373925
+W: 7.942028985507246
+Q: 8.869565217391305
+Wt: 0.12537757622887893
+Qt: 0.1400672396374214
+Rho: 0.9023114658690917
+W stdev: 8.870867575124304
+Q stdev: 8.93926859420668
+Wt stdev: 0.12792272277542385
+Qt stdev: 0.1285881228272624
+W Confidence Interval: 3.5348382397257754
+Q Confidence Interval: 3.562094484488871
+Wt Confidence Interval: 0.007617219116345961
+Qt Confidence Interval: 0.0076568406775894635
+Monitors through system: 69
+Tasks through system: 3090
+===================================================
+Monitor Event Number: 70
+===================================================
+CLOCK: 50.366152974780704
+W: 7.8428571428571425
+Q: 8.771428571428572
+Wt: 0.1252776057013443
+Qt: 0.13996405240403753
+Rho: 0.9018989334797041
+W stdev: 8.845718438537231
+Q stdev: 8.912545617709627
+Wt stdev: 0.1279009641140948
+Qt stdev: 0.1285684188433454
+W Confidence Interval: 3.499549052540488
+Q Confidence Interval: 3.5259872659181437
+Wt Confidence Interval: 0.0076122291261659725
+Qt Confidence Interval: 0.007651953755026991
+Monitors through system: 70
+Tasks through system: 3093
+===================================================
+Monitor Event Number: 71
+===================================================
+CLOCK: 51.16854764201938
+W: 7.76056338028169
+Q: 8.690140845070422
+Wt: 0.12404426632593361
+Qt: 0.1387270737074583
+Rho: 0.9010225480804394
+W stdev: 8.810149059077606
+Q stdev: 8.875653595128984
+Wt stdev: 0.1274551904379801
+Qt stdev: 0.12812055299275454
+W Confidence Interval: 3.4608444153674225
+Q Confidence Interval: 3.4865762169810472
+Wt Confidence Interval: 0.007528712204588555
+Qt Confidence Interval: 0.007568014826705338
+Monitors through system: 71
+Tasks through system: 3140
+===================================================
+Monitor Event Number: 72
+===================================================
+CLOCK: 52.01677633505423
+W: 7.930555555555555
+Q: 8.86111111111111
+Wt: 0.12386940145951783
+Qt: 0.13860582341539246
+Rho: 0.9028813410284876
+W stdev: 8.86523545605857
+Q stdev: 8.930760754511397
+Wt stdev: 0.12734941466111077
+Qt stdev: 0.1280401800261456
+W Confidence Interval: 3.458215239466594
+Q Confidence Interval: 3.483775822352783
+Wt Confidence Interval: 0.007466789622038087
+Qt Confidence Interval: 0.007507290787062135
+Monitors through system: 72
+Tasks through system: 3187
+===================================================
+Monitor Event Number: 73
+===================================================
+CLOCK: 52.799347554771856
+W: 8.164383561643836
+Q: 9.095890410958905
+Wt: 0.12662064484309574
+Qt: 0.1413492392136262
+Rho: 0.9040902315198218
+W stdev: 9.025100004955945
+Q stdev: 9.09035976436161
+Wt stdev: 0.1281828584352596
+Qt stdev: 0.1288533962616604
+W Confidence Interval: 3.4963796724428957
+Q Confidence Interval: 3.5216617076656838
+Wt Confidence Interval: 0.007452782210959786
+Qt Confidence Interval: 0.007491768487638111
+Monitors through system: 73
+Tasks through system: 3241
+===================================================
+Monitor Event Number: 74
+===================================================
+CLOCK: 53.14388923279981
+W: 8.5
+Q: 9.432432432432432
+Wt: 0.12762170979045517
+Qt: 0.14239060693500766
+Rho: 0.9048552862213903
+W stdev: 9.41139332534372
+Q stdev: 9.475546167074146
+Wt stdev: 0.12875247266053721
+Qt stdev: 0.1294737402219372
+W Confidence Interval: 3.6213129520034166
+Q Confidence Interval: 3.6459976621876793
+Wt Confidence Interval: 0.007468637380955434
+Qt Confidence Interval: 0.007510476467688511
+Monitors through system: 74
+Tasks through system: 3256
+===================================================
+Monitor Event Number: 75
+===================================================
+CLOCK: 53.475150968116026
+W: 8.8
+Q: 9.733333333333333
+Wt: 0.12963131529981212
+Qt: 0.14440986032262762
+Rho: 0.9048119645991687
+W stdev: 9.69810978146429
+Q stdev: 9.761602782785669
+Wt stdev: 0.1312575553683383
+Qt stdev: 0.13198633277204722
+W Confidence Interval: 3.7066745659388243
+Q Confidence Interval: 3.730941964268641
+Wt Confidence Interval: 0.007592992442830818
+Qt Confidence Interval: 0.007635150787951137
+Monitors through system: 75
+Tasks through system: 3274
+===================================================
+Monitor Event Number: 76
+===================================================
+CLOCK: 54.18286666848758
+W: 9.0
+Q: 9.93421052631579
+Wt: 0.13462401789731768
+Qt: 0.14940846985309045
+Rho: 0.9067208302141495
+W stdev: 9.788554003206205
+Q stdev: 9.851977528335953
+Wt stdev: 0.13674541928225467
+Qt stdev: 0.1374616044346296
+W Confidence Interval: 3.7165479367932273
+Q Confidence Interval: 3.7406287735938317
+Wt Confidence Interval: 0.007851915375656432
+Qt Confidence Interval: 0.007893038692541675
+Monitors through system: 76
+Tasks through system: 3323
+===================================================
+Monitor Event Number: 77
+===================================================
+CLOCK: 54.56961667019473
+W: 9.103896103896103
+Q: 10.03896103896104
+Wt: 0.13637367349706242
+Qt: 0.1511459304525718
+Rho: 0.9074024766223785
+W stdev: 9.766872734002048
+Q stdev: 9.830302420261887
+Wt stdev: 0.13748040741394815
+Qt stdev: 0.13817323209844726
+W Confidence Interval: 3.684157259486566
+Q Confidence Interval: 3.7080835402383983
+Wt Confidence Interval: 0.007859895993754452
+Qt Confidence Interval: 0.007899505492042252
+Monitors through system: 77
+Tasks through system: 3352
+===================================================
+Monitor Event Number: 78
+===================================================
+CLOCK: 55.10804295257273
+W: 9.076923076923077
+Q: 10.012820512820513
+Wt: 0.1376807148511554
+Qt: 0.15247600201814568
+Rho: 0.9079919829819675
+W stdev: 9.706948648829144
+Q stdev: 9.769777560577772
+Wt stdev: 0.13770852157424607
+Qt stdev: 0.1384265348074567
+W Confidence Interval: 3.6380061138344404
+Q Confidence Interval: 3.6615533657398727
+Wt Confidence Interval: 0.007837941323171262
+Qt Confidence Interval: 0.007878808406245212
+Monitors through system: 78
+Tasks through system: 3382
+===================================================
+Monitor Event Number: 79
+===================================================
+CLOCK: 55.70173124580987
+W: 9.189873417721518
+Q: 10.126582278481013
+Wt: 0.13818223679259414
+Qt: 0.15298826803106663
+Rho: 0.90906737911106
+W stdev: 9.69676436882341
+Q stdev: 9.759600386879816
+Wt stdev: 0.13706292970450698
+Qt stdev: 0.13777446538399757
+W Confidence Interval: 3.6111147612024452
+Q Confidence Interval: 3.6345151516531216
+Wt Confidence Interval: 0.007757735197719003
+Qt Confidence Interval: 0.00779800797896713
+Monitors through system: 79
+Tasks through system: 3420
+===================================================
+Monitor Event Number: 80
+===================================================
+CLOCK: 56.374890925229465
+W: 9.1875
+Q: 10.125
+Wt: 0.13858026892370595
+Qt: 0.1533695100140383
+Rho: 0.9100483655109635
+W stdev: 9.635992099934494
+Q stdev: 9.698421263277853
+Wt stdev: 0.13643120074748383
+Qt stdev: 0.13711420766263085
+W Confidence Interval: 3.5659843720902904
+Q Confidence Interval: 3.5890874857641384
+Wt Confidence Interval: 0.007667248606978503
+Qt Confidence Interval: 0.007705632670081564
+Monitors through system: 80
+Tasks through system: 3469
+===================================================
+Monitor Event Number: 81
+===================================================
+CLOCK: 58.75121369198726
+W: 9.123456790123457
+Q: 10.061728395061728
+Wt: 0.1387053478208516
+Qt: 0.15354290074817703
+Rho: 0.9134692811538877
+W stdev: 9.593442611337275
+Q stdev: 9.654968245803056
+Wt stdev: 0.1341267269581886
+Qt stdev: 0.13480994396539814
+W Confidence Interval: 3.5282550048362644
+Q Confidence Interval: 3.5508827659564575
+Wt Confidence Interval: 0.007381915442699535
+Qt Confidence Interval: 0.007419517569364471
+Monitors through system: 81
+Tasks through system: 3617
+===================================================
+Monitor Event Number: 82
+===================================================
+CLOCK: 60.39585747648988
+W: 9.012195121951219
+Q: 9.951219512195122
+Wt: 0.1360592130538829
+Qt: 0.15084030750045385
+Rho: 0.9133580808266082
+W stdev: 9.587204254908835
+Q stdev: 9.647320415313095
+Wt stdev: 0.13302295879854076
+Qt stdev: 0.13373871032021972
+W Confidence Interval: 3.504394964947396
+Q Confidence Interval: 3.526369125946917
+Wt Confidence Interval: 0.007207485539928349
+Qt Confidence Interval: 0.007246266580353826
+Monitors through system: 82
+Tasks through system: 3732
+===================================================
+Monitor Event Number: 83
+===================================================
+CLOCK: 62.2327501523003
+W: 8.903614457831326
+Q: 9.843373493975903
+Wt: 0.13334846946698084
+Qt: 0.14809920541553764
+Rho: 0.9073328283402268
+W stdev: 9.579866510415545
+Q stdev: 9.638629517778146
+Wt stdev: 0.1325516243130712
+Qt stdev: 0.13329688266849812
+W Confidence Interval: 3.4805542320252303
+Q Confidence Interval: 3.50190399026456
+Wt Confidence Interval: 0.007091319994146731
+Qt Confidence Interval: 0.007131190237186241
+Monitors through system: 83
+Tasks through system: 3828
+===================================================
+Monitor Event Number: 84
+===================================================
+CLOCK: 63.44621592515284
+W: 9.0
+Q: 9.94047619047619
+Wt: 0.1339750656437339
+Qt: 0.14879446941365393
+Rho: 0.9081367740736911
+W stdev: 9.563073823430464
+Q stdev: 9.621839234233397
+Wt stdev: 0.13272121321959196
+Qt stdev: 0.1335281582256294
+W Confidence Interval: 3.453709928937668
+Q Confidence Interval: 3.4749330927985302
+Wt Confidence Interval: 0.007045392757615612
+Qt Confidence Interval: 0.007088228747156514
+Monitors through system: 84
+Tasks through system: 3888
+===================================================
+Monitor Event Number: 85
+===================================================
+CLOCK: 64.56205477381786
+W: 9.094117647058823
+Q: 10.035294117647059
+Wt: 0.13772658870184556
+Qt: 0.15255841798981876
+Rho: 0.9095003614243825
+W stdev: 9.545708650132687
+Q stdev: 9.604468394908118
+Wt stdev: 0.13455673506219681
+Qt stdev: 0.13535508640569321
+W Confidence Interval: 3.427099438405088
+Q Confidence Interval: 3.4481953565502437
+Wt Confidence Interval: 0.007078490989834435
+Qt Confidence Interval: 0.0071204890569623955
+Monitors through system: 85
+Tasks through system: 3959
+===================================================
+Monitor Event Number: 86
+===================================================
+CLOCK: 66.28883592713467
+W: 9.034883720930232
+Q: 9.976744186046512
+Wt: 0.1382673264822335
+Qt: 0.15305822240957412
+Rho: 0.9096928894943198
+W stdev: 9.505748168465917
+Q stdev: 9.563711384509004
+Wt stdev: 0.13411857105905695
+Qt stdev: 0.1349129143642399
+W Confidence Interval: 3.3928532269151037
+Q Confidence Interval: 3.413541833546464
+Wt Confidence Interval: 0.00695258898003629
+Qt Confidence Interval: 0.006993767039617233
+Monitors through system: 86
+Tasks through system: 4077
+===================================================
+Monitor Event Number: 87
+===================================================
+CLOCK: 66.30198061768618
+W: 8.988505747126437
+Q: 9.931034482758621
+Wt: 0.1382673264822335
+Qt: 0.15305822240957412
+Rho: 0.9095125384487264
+W stdev: 9.460740721983013
+Q stdev: 9.518032617450778
+Wt stdev: 0.13411857105905695
+Qt stdev: 0.1349129143642399
+W Confidence Interval: 3.3573259552900465
+Q Confidence Interval: 3.3776570872102725
+Wt Confidence Interval: 0.00695258898003629
+Qt Confidence Interval: 0.006993767039617233
+Monitors through system: 87
+Tasks through system: 4077
+===================================================
+Monitor Event Number: 88
+===================================================
+CLOCK: 67.25258210363833
+W: 8.886363636363637
+Q: 9.818181818181818
+Wt: 0.13696611201488934
+Qt: 0.15175072692727054
+Rho: 0.9085868753516334
+W stdev: 9.454955192170422
+Q stdev: 9.522157717834009
+Wt stdev: 0.1337261571905978
+Qt stdev: 0.1345224955619217
+W Confidence Interval: 3.336154329233943
+Q Confidence Interval: 3.359866551277437
+Wt Confidence Interval: 0.006885122250058581
+Qt Confidence Interval: 0.006926123106990131
+Monitors through system: 88
+Tasks through system: 4133
+===================================================
+Monitor Event Number: 89
+===================================================
+CLOCK: 70.98949087403835
+W: 9.067415730337078
+Q: 10.0
+Wt: 0.14127320960189924
+Qt: 0.15617614337744296
+Rho: 0.9117327169176616
+W stdev: 9.553865918868008
+Q stdev: 9.620904206612234
+Wt stdev: 0.13348715205002926
+Qt stdev: 0.13429837896373298
+W Confidence Interval: 3.352062692175349
+Q Confidence Interval: 3.3755836987713224
+Wt Confidence Interval: 0.006704594965003207
+Qt Confidence Interval: 0.00674534006891444
+Monitors through system: 89
+Tasks through system: 4343
+===================================================
+Monitor Event Number: 90
+===================================================
+CLOCK: 71.40949814223433
+W: 9.3
+Q: 10.233333333333333
+Wt: 0.1425365554619311
+Qt: 0.15744901489456836
+Rho: 0.912379122612273
+W stdev: 9.750726468662048
+Q stdev: 9.817275023594322
+Wt stdev: 0.13415711053186488
+Qt stdev: 0.13497002893626864
+W Confidence Interval: 3.40207366120963
+Q Confidence Interval: 3.4252927604894925
+Wt Confidence Interval: 0.006718165019804642
+Qt Confidence Interval: 0.006758873409891231
+Monitors through system: 90
+Tasks through system: 4369
+===================================================
+Monitor Event Number: 91
+===================================================
+CLOCK: 72.11765712172581
+W: 9.32967032967033
+Q: 10.263736263736265
+Wt: 0.14552663454102263
+Qt: 0.16041157670568565
+Rho: 0.9128984748240468
+W stdev: 9.701087449019067
+Q stdev: 9.767444428084447
+Wt stdev: 0.13636033521292867
+Qt stdev: 0.13710884435937176
+W Confidence Interval: 3.3661054508041213
+Q Confidence Interval: 3.3891301467575072
+Wt Confidence Interval: 0.006786683314387034
+Qt Confidence Interval: 0.00682393677615727
+Monitors through system: 91
+Tasks through system: 4423
+===================================================
+Monitor Event Number: 92
+===================================================
+CLOCK: 73.38067472425092
+W: 9.26086956521739
+Q: 10.195652173913043
+Wt: 0.14561245273025963
+Qt: 0.16050638568058287
+Rho: 0.914574063625777
+W stdev: 9.670517234961244
+Q stdev: 9.735902997840768
+Wt stdev: 0.1355351748382213
+Qt stdev: 0.13628039708681197
+W Confidence Interval: 3.337211898721082
+Q Confidence Interval: 3.359775960248178
+Wt Confidence Interval: 0.006683199423008983
+Qt Confidence Interval: 0.006719946111886903
+Monitors through system: 92
+Tasks through system: 4506
+===================================================
+Monitor Event Number: 93
+===================================================
+CLOCK: 73.58725514106172
+W: 9.193548387096774
+Q: 10.129032258064516
+Wt: 0.14540646562727827
+Qt: 0.16030764882679494
+Rho: 0.9148805124795667
+W stdev: 9.640035319299203
+Q stdev: 9.704478299397426
+Wt stdev: 0.1354279014311048
+Qt stdev: 0.1361675542676317
+W Confidence Interval: 3.3087590682924017
+Q Confidence Interval: 3.3308778975005175
+Wt Confidence Interval: 0.006669035500339369
+Qt Confidence Interval: 0.006705459095275113
+Monitors through system: 93
+Tasks through system: 4518
+===================================================
+Monitor Event Number: 94
+===================================================
+CLOCK: 74.08747336847489
+W: 9.117021276595745
+Q: 10.053191489361701
+Wt: 0.14462224106759367
+Qt: 0.1595290352945048
+Rho: 0.9148806170330193
+W stdev: 9.616980088407376
+Q stdev: 9.680389280545814
+Wt stdev: 0.1353579869146946
+Qt stdev: 0.13608825819164086
+W Confidence Interval: 3.2832411616383057
+Q Confidence Interval: 3.304889087259584
+Wt Confidence Interval: 0.006644302603808948
+Qt Confidence Interval: 0.006680149349593952
+Monitors through system: 94
+Tasks through system: 4547
+===================================================
+Monitor Event Number: 95
+===================================================
+CLOCK: 74.6409652790939
+W: 9.021052631578947
+Q: 9.957894736842105
+Wt: 0.14403991584716522
+Qt: 0.1589631030406924
+Rho: 0.9154929053188823
+W stdev: 9.61137368720646
+Q stdev: 9.673529578971445
+Wt stdev: 0.13510309088253408
+Qt stdev: 0.13582413997106654
+W Confidence Interval: 3.264011302505524
+Q Confidence Interval: 3.285119370908719
+Wt Confidence Interval: 0.006608577035920531
+Qt Confidence Interval: 0.006643847201962773
+Monitors through system: 95
+Tasks through system: 4579
+===================================================
+Monitor Event Number: 96
+===================================================
+CLOCK: 75.61459047289208
+W: 8.927083333333334
+Q: 9.854166666666666
+Wt: 0.14298192484080102
+Qt: 0.15791126767631158
+Rho: 0.9125675634052492
+W stdev: 9.604951838837552
+Q stdev: 9.675978812100729
+Wt stdev: 0.1349494161787051
+Qt stdev: 0.1356644404552633
+W Confidence Interval: 3.2447972766798467
+Q Confidence Interval: 3.268791996620375
+Wt Confidence Interval: 0.006570282350013203
+Qt Confidence Interval: 0.006605094737625759
+Monitors through system: 96
+Tasks through system: 4622
+===================================================
+Monitor Event Number: 97
+===================================================
+CLOCK: 75.8660794445968
+W: 8.896907216494846
+Q: 9.824742268041238
+Wt: 0.14278219615457347
+Qt: 0.1577227886638793
+Rho: 0.9120002564667384
+W stdev: 9.55988670087984
+Q stdev: 9.630289746610812
+Wt stdev: 0.1348996633243325
+Qt stdev: 0.13560578930338094
+W Confidence Interval: 3.2128827135814264
+Q Confidence Interval: 3.236543739667824
+Wt Confidence Interval: 0.006561474858102272
+Qt Confidence Interval: 0.006595820591397689
+Monitors through system: 97
+Tasks through system: 4631
+===================================================
+Monitor Event Number: 98
+===================================================
+CLOCK: 76.93673008457549
+W: 8.806122448979592
+Q: 9.73469387755102
+Wt: 0.14094104098254417
+Qt: 0.15584963146355563
+Rho: 0.9128847779056937
+W stdev: 9.552922582254986
+Q stdev: 9.621989081571487
+Wt stdev: 0.13450427390007874
+Qt stdev: 0.135226789026168
+W Confidence Interval: 3.1941198969981746
+Q Confidence Interval: 3.2172130057074018
+Wt Confidence Interval: 0.006486456740091918
+Qt Confidence Interval: 0.006521299968292396
+Monitors through system: 98
+Tasks through system: 4711
+===================================================
+Monitor Event Number: 99
+===================================================
+CLOCK: 80.10473184693873
+W: 8.717171717171718
+Q: 9.636363636363637
+Wt: 0.1375869901962409
+Qt: 0.1525064617176147
+Rho: 0.9126228721971515
+W stdev: 9.545256798764063
+Q stdev: 9.622631725381266
+Wt stdev: 0.13313781383313697
+Qt stdev: 0.13383090053850108
+W Confidence Interval: 3.17539687694805
+Q Confidence Interval: 3.2011370016523073
+Wt Confidence Interval: 0.006295516625538334
+Qt Confidence Interval: 0.006328289725463408
+Monitors through system: 99
+Tasks through system: 4900
+===================================================
+Monitor Event Number: 100
+===================================================
+CLOCK: 84.66030116383465
+W: 8.7
+Q: 9.62
+Wt: 0.13282874290358704
+Qt: 0.14770015956495844
+Rho: 0.905702238852751
+W stdev: 9.498947310097051
+Q stdev: 9.575781952404723
+Wt stdev: 0.1318913041022731
+Qt stdev: 0.1326251371793788
+W Confidence Interval: 3.144151559642124
+Q Confidence Interval: 3.1695838262459635
+Wt Confidence Interval: 0.0060797777251775835
+Qt Confidence Interval: 0.0061136051410679145
+Monitors through system: 100
+Tasks through system: 5156
+===================================================
+Monitor Event Number: 101
+===================================================
+CLOCK: 84.73409716230154
+W: 8.643564356435643
+Q: 9.564356435643564
+Wt: 0.13274421988186044
+Qt: 0.14761857774108364
+Rho: 0.9066722950471278
+W stdev: 9.468639387463156
+Q stdev: 9.544492830826902
+Wt stdev: 0.13179639627846107
+Qt stdev: 0.13252962883641753
+W Confidence Interval: 3.118565597631494
+Q Confidence Interval: 3.143548483688943
+Wt Confidence Interval: 0.006070107275370459
+Qt Confidence Interval: 0.006103877548384496
+Monitors through system: 101
+Tasks through system: 5165
+===================================================
+Monitor Event Number: 102
+===================================================
+CLOCK: 84.78800431246444
+W: 8.57843137254902
+Q: 9.5
+Wt: 0.13264522289735048
+Qt: 0.1475157122400877
+Rho: 0.9067371089267613
+W stdev: 9.444820423572148
+Q stdev: 9.519587649662554
+Wt stdev: 0.13177203037730895
+Qt stdev: 0.13250777489516855
+W Confidence Interval: 3.095434458700695
+Q Confidence Interval: 3.1199385824047403
+Wt Confidence Interval: 0.006066049640126448
+Qt Confidence Interval: 0.006099919215900669
+Monitors through system: 102
+Tasks through system: 5170
+===================================================
+Monitor Event Number: 103
+===================================================
+CLOCK: 84.85176542384352
+W: 8.524271844660195
+Q: 9.446601941747574
+Wt: 0.13261356891180154
+Qt: 0.14749254369467812
+Rho: 0.9069234705093822
+W stdev: 9.4147628962242
+Q stdev: 9.488601394007715
+Wt stdev: 0.13175665222371186
+Qt stdev: 0.13248770722825517
+W Confidence Interval: 3.07056834597473
+Q Confidence Interval: 3.0946503283366344
+Wt Confidence Interval: 0.006064168875724757
+Qt Confidence Interval: 0.006097816064919176
+Monitors through system: 103
+Tasks through system: 5172
+===================================================
+Monitor Event Number: 104
+===================================================
+CLOCK: 85.9079439727015
+W: 8.528846153846153
+Q: 9.451923076923077
+Wt: 0.13234673745471068
+Qt: 0.1472681147210267
+Rho: 0.9078792410143137
+W stdev: 9.36950529312353
+Q stdev: 9.443027349983922
+Wt stdev: 0.13122760290424657
+Qt stdev: 0.13195792725810485
+W Confidence Interval: 3.0410809801340597
+Q Confidence Interval: 3.0649441961463895
+Wt Confidence Interval: 0.006007958712816802
+Qt Confidence Interval: 0.006041394959976988
+Monitors through system: 104
+Tasks through system: 5227
+===================================================
+Monitor Event Number: 105
+===================================================
+CLOCK: 86.83137953705742
+W: 8.447619047619048
+Q: 9.361904761904762
+Wt: 0.13191243037685138
+Qt: 0.14681945230284457
+Rho: 0.9076606330905198
+W stdev: 9.361502679928252
+Q stdev: 9.442683042364004
+Wt stdev: 0.1306779502763794
+Qt stdev: 0.1314181618450815
+W Confidence Interval: 3.023979970070707
+Q Confidence Interval: 3.050203088127933
+Wt Confidence Interval: 0.005948749103928407
+Qt Confidence Interval: 0.005982445170454711
+Monitors through system: 105
+Tasks through system: 5287
+===================================================
+Monitor Event Number: 106
+===================================================
+CLOCK: 87.49578890880579
+W: 8.367924528301886
+Q: 9.283018867924529
+Wt: 0.13111725663207402
+Qt: 0.14599898581508342
+Rho: 0.9053629372234837
+W stdev: 9.352958841385098
+Q stdev: 9.432735769329257
+Wt stdev: 0.13059673029321675
+Qt stdev: 0.13135716704670866
+W Confidence Interval: 3.0069353056632653
+Q Confidence Interval: 3.03258323860949
+Wt Confidence Interval: 0.005924914184524972
+Qt Confidence Interval: 0.005959413689199266
+Monitors through system: 106
+Tasks through system: 5323
+===================================================
+Monitor Event Number: 107
+===================================================
+CLOCK: 88.280669422605
+W: 8.336448598130842
+Q: 9.25233644859813
+Wt: 0.13018270870697898
+Qt: 0.1450556046699515
+Rho: 0.9040253122149293
+W stdev: 9.314789692403847
+Q stdev: 9.393867016924508
+Wt stdev: 0.1304985531281371
+Qt stdev: 0.13126318754116248
+W Confidence Interval: 2.9806374846163997
+Q Confidence Interval: 3.005941420124645
+Wt Confidence Interval: 0.00589669080739331
+Qt Confidence Interval: 0.005931241479459966
+Monitors through system: 107
+Tasks through system: 5366
+===================================================
+Monitor Event Number: 108
+===================================================
+CLOCK: 89.57650438040403
+W: 8.314814814814815
+Q: 9.231481481481481
+Wt: 0.12899724420088035
+Qt: 0.1438641920606371
+Rho: 0.9030388477922695
+W stdev: 9.274265617475285
+Q stdev: 9.352763981920475
+Wt stdev: 0.13002438689807277
+Qt stdev: 0.1307838314443238
+W Confidence Interval: 2.9538990291833045
+Q Confidence Interval: 2.978901142783567
+Wt Confidence Interval: 0.005834631676046152
+Qt Confidence Interval: 0.005868710507805844
+Monitors through system: 108
+Tasks through system: 5441
+===================================================
+Monitor Event Number: 109
+===================================================
+CLOCK: 90.17091643868125
+W: 8.284403669724771
+Q: 9.20183486238532
+Wt: 0.12878145598472288
+Qt: 0.14367757505529963
+Rho: 0.9036369434203045
+W stdev: 9.237033304985847
+Q stdev: 9.314859211918728
+Wt stdev: 0.12972805884458044
+Qt stdev: 0.13047704430805693
+W Confidence Interval: 2.9285136612999323
+Q Confidence Interval: 2.9531876257786553
+Wt Confidence Interval: 0.005805882606814181
+Qt Confidence Interval: 0.0058394028931260614
+Monitors through system: 109
+Tasks through system: 5470
+===================================================
+Monitor Event Number: 110
+===================================================
+CLOCK: 90.18380610382474
+W: 8.272727272727273
+Q: 9.190909090909091
+Wt: 0.12878145598472288
+Qt: 0.14367757505529963
+Rho: 0.9035077896607198
+W stdev: 9.195758993746757
+Q stdev: 9.273123877436394
+Wt stdev: 0.12972805884458044
+Qt stdev: 0.13047704430805693
+W Confidence Interval: 2.9021458316648108
+Q Confidence Interval: 2.9265618885525337
+Wt Confidence Interval: 0.005805882606814181
+Qt Confidence Interval: 0.0058394028931260614
+Monitors through system: 110
+Tasks through system: 5470
+===================================================
+Monitor Event Number: 111
+===================================================
+CLOCK: 90.90300111379287
+W: 8.306306306306306
+Q: 9.225225225225225
+Wt: 0.12888645504054982
+Qt: 0.14380641130148264
+Rho: 0.9041949994433138
+W stdev: 9.161014925472777
+Q stdev: 9.238272024265072
+Wt stdev: 0.12931326904270926
+Qt stdev: 0.13006171180254314
+W Confidence Interval: 2.878127937253476
+Q Confidence Interval: 2.902399900152148
+Wt Confidence Interval: 0.005766797458857707
+Qt Confidence Interval: 0.0058001746817634625
+Monitors through system: 111
+Tasks through system: 5509
+===================================================
+Monitor Event Number: 112
+===================================================
+CLOCK: 92.41106410081278
+W: 8.303571428571429
+Q: 9.223214285714286
+Wt: 0.12975851550514272
+Qt: 0.14471853531605533
+Rho: 0.9059117723235149
+W stdev: 9.120071355565823
+Q stdev: 9.196961669708188
+Wt stdev: 0.12877204225713196
+Qt stdev: 0.12952832659521057
+W Confidence Interval: 2.8524446024724948
+Q Confidence Interval: 2.8764932478182303
+Wt Confidence Interval: 0.005697846226206942
+Qt Confidence Interval: 0.005731309948503558
+Monitors through system: 112
+Tasks through system: 5596
+===================================================
+Monitor Event Number: 113
+===================================================
+CLOCK: 94.18870275129078
+W: 8.256637168141593
+Q: 9.176991150442477
+Wt: 0.12898665663435877
+Qt: 0.14395879203491996
+Rho: 0.9057479827243016
+W stdev: 9.09320349235124
+Q stdev: 9.16923490935479
+Wt stdev: 0.12806923866408543
+Qt stdev: 0.12884074434093512
+W Confidence Interval: 2.831429040571141
+Q Confidence Interval: 2.855103597319014
+Wt Confidence Interval: 0.005615799567812355
+Qt Confidence Interval: 0.005649629871574692
+Monitors through system: 113
+Tasks through system: 5698
+===================================================
+Monitor Event Number: 114
+===================================================
+CLOCK: 95.00830895266401
+W: 8.18421052631579
+Q: 9.105263157894736
+Wt: 0.1281766642529143
+Qt: 0.14314702604991827
+Rho: 0.9057064646004127
+W stdev: 9.085911389631757
+Q stdev: 9.160717451651566
+Wt stdev: 0.12781872687848075
+Qt stdev: 0.1285895175680574
+W Confidence Interval: 2.816722514322631
+Q Confidence Interval: 2.8399131344005966
+Wt Confidence Interval: 0.005580384214642909
+Qt Confidence Interval: 0.005614035842240456
+Monitors through system: 114
+Tasks through system: 5748
+===================================================
+Monitor Event Number: 115
+===================================================
+CLOCK: 97.73792013153044
+W: 8.11304347826087
+Q: 9.034782608695652
+Wt: 0.127154760609429
+Qt: 0.14211058918035446
+Rho: 0.9057236862844914
+W stdev: 9.078177577495628
+Q stdev: 9.151792824865671
+Wt stdev: 0.1267602508731319
+Qt stdev: 0.12752733141048417
+W Confidence Interval: 2.8020620437955195
+Q Confidence Interval: 2.824784059171333
+Wt Confidence Interval: 0.005453645619102101
+Qt Confidence Interval: 0.00548664796315881
+Monitors through system: 115
+Tasks through system: 5919
+===================================================
+Monitor Event Number: 116
+===================================================
+CLOCK: 98.39960674135736
+W: 8.060344827586206
+Q: 8.982758620689655
+Wt: 0.1265611828123495
+Qt: 0.14152265222723306
+Rho: 0.9060543959046106
+W stdev: 9.056611980798841
+Q stdev: 9.129322555427999
+Wt stdev: 0.12655579056844596
+Qt stdev: 0.12731563503501422
+W Confidence Interval: 2.783330383568652
+Q Confidence Interval: 2.805676217971311
+Wt Confidence Interval: 0.005426543918007039
+Qt Confidence Interval: 0.005459125037765897
+Monitors through system: 116
+Tasks through system: 5959
+===================================================
+Monitor Event Number: 117
+===================================================
+CLOCK: 98.47144308802689
+W: 7.9914529914529915
+Q: 8.905982905982906
+Wt: 0.1264483812464996
+Qt: 0.14140424625174255
+Rho: 0.9059655465445517
+W stdev: 9.048299388307163
+Q stdev: 9.127756959451698
+Wt stdev: 0.1265429865825345
+Qt stdev: 0.12730748165968975
+W Confidence Interval: 2.7688665511528963
+Q Confidence Interval: 2.793181331371405
+Wt Confidence Interval: 0.005423265297421895
+Qt Confidence Interval: 0.0054560293385904814
+Monitors through system: 117
+Tasks through system: 5965
+===================================================
+Monitor Event Number: 118
+===================================================
+CLOCK: 98.64859981740716
+W: 7.932203389830509
+Q: 8.847457627118644
+Wt: 0.1263072245917521
+Qt: 0.14126046009351959
+Rho: 0.9052406479346552
+W stdev: 9.032642136088011
+Q stdev: 9.111016909739575
+Wt stdev: 0.12653642464561424
+Qt stdev: 0.12730328082736753
+W Confidence Interval: 2.752338178486742
+Q Confidence Interval: 2.776219771325411
+Wt Confidence Interval: 0.005419804900805156
+Qt Confidence Interval: 0.005452650865148777
+Monitors through system: 118
+Tasks through system: 5972
+===================================================
+Monitor Event Number: 119
+===================================================
+CLOCK: 99.96589727009979
+W: 7.92436974789916
+Q: 8.840336134453782
+Wt: 0.12537156480963796
+Qt: 0.14032934684640927
+Rho: 0.9048056431881889
+W stdev: 8.995012309692623
+Q stdev: 9.072984363767242
+Wt stdev: 0.12617068503373977
+Qt stdev: 0.12694077644632962
+W Confidence Interval: 2.7293314217300564
+Q Confidence Interval: 2.7529902639723707
+Wt Confidence Interval: 0.0053705216354872215
+Qt Confidence Interval: 0.005403300981906009
+Monitors through system: 119
+Tasks through system: 6047
+===================================================
