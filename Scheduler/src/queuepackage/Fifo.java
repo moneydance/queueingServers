@@ -1,13 +1,13 @@
 package queuepackage;
 
 import serverpackage.*;
-
 import java.util.LinkedList;
 
 public class Fifo extends Queue
 {
     private LinkedList<Task> task_queue;
-    public Fifo(){
+    public Fifo()
+    {
         task_queue = new LinkedList<Task>();
         queue_length = 0;
     }
