@@ -47,12 +47,12 @@ public class QueueStatistics extends Statistics
     public void printStats(double clock, double max_time)
     {
         System.out.println("===================================================");
-        double slowdown_io = total_time_io/(death_event_count_io * .01);
-        double slowdown_cpu = total_time_cpu/(death_event_count_cpu * .3);
+        double system_time_io = total_time_io/(death_event_count_io);
+        double system_time_cpu = total_time_cpu/(death_event_count_cpu);
         System.out.println("CLOCK: " + (clock - max_time));
         System.out.println("Rho: " + (total_service_time)/(clock - max_time));
-        System.out.println("IO slowdown " + slowdown_io);
-        System.out.println("CPU slowdown " + slowdown_cpu);
+        System.out.println("IO System Time " + system_time_io);
+        System.out.println("CPU System Time " + system_time_cpu);
         System.out.println("IO Tasks through system: " + death_event_count_io);
         System.out.println("CPU Tasks through system: " + death_event_count_cpu);
         System.out.println("===================================================");

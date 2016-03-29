@@ -10,10 +10,9 @@ import java.util.ArrayList;
 
 public class ServerFifo extends Server
 {
-    private Queue task_queue;
+    private Fifo task_queue;
     private double monitor_rate;
     private EventDeath next_event_death;
-    public QueueStatistics stats;
 
     public ServerFifo(boolean record_logs)
     {
@@ -43,7 +42,7 @@ public class ServerFifo extends Server
             new_events.add(next_event_death);
         }
         task_queue.enqueue(arriving_task);
-        new_events.add(new EventBirth(clock));
+        new_events.add(new EventBirth(clock, arriving_task.getTaskType()));
         return new_events;
     }
 
@@ -65,5 +64,10 @@ public class ServerFifo extends Server
         stats.recordMonitor();
         stats.writeStats(clock, max_time);
         return new EventMonitor(monitor_rate, clock);
+    }
+
+    public Event cycle(double clock)
+    {
+        return null;
     }
 }

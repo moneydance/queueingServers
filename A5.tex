@@ -1,0 +1,256 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Structured General Purpose Assignment
+% LaTeX Template
+%
+% This template has been downloaded from:
+% http://www.latextemplates.com
+%
+% Original author:
+% Ted Pavlic (http://www.tedpavlic.com)
+%
+% Note:
+% The \lipsum[#] commands throughout this template generate dummy text
+% to fill the template out. These commands should all be removed when 
+% writing assignment content.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass{article}
+
+\usepackage{fancyhdr} % Required for custom headers
+\usepackage{lastpage} % Required to determine the last page for the footer
+\usepackage{extramarks} % Required for headers and footers
+\usepackage{graphicx} % Required to insert images
+\usepackage{lipsum} % Used for inserting dummy 'Lorem ipsum' text into the template
+\usepackage{listings}
+\usepackage{enumitem}
+\usepackage[binary-units=true]{siunitx}
+\usepackage{amsmath}
+\usepackage{amsthm}
+% Margins
+\topmargin=-0.45in
+\evensidemargin=0in
+\oddsidemargin=0in
+\textwidth=6.5in
+\textheight=9.0in
+\headsep=0.25in 
+
+\linespread{1.1} % Line spacing
+
+% Set up the header and footer
+\pagestyle{fancy}
+\lhead{\hmwkAuthorName} % Top left header
+\chead{\hmwkClass\ (\hmwkClassInstructor\ \hmwkClassTime): \hmwkTitle} % Top center header
+\rhead{\firstxmark} % Top right header
+\lfoot{\lastxmark} % Bottom left footer
+\cfoot{} % Bottom center footer
+\rfoot{Page\ \thepage\ of\ \pageref{LastPage}} % Bottom right footer
+\renewcommand\headrulewidth{0.4pt} % Size of the header rule
+\renewcommand\footrulewidth{0.4pt} % Size of the footer rule
+
+\setlength\parindent{0pt} % Removes all indentation from paragraphs
+
+\newtheoremstyle{problemstyle}  % <name>
+        {3pt}                                               % <space above>
+        {3pt}                                               % <space below>
+        {\normalfont}                               % <body font>
+        {}                                                  % <indent amount}
+        {\bfseries\itshape}                 % <theorem head font>
+        {\normalfont\bfseries:}         % <punctuation after theorem head>
+        {.5em}                                          % <space after theorem head>
+        {}                                                  % <theorem head spec (can be left empty, meaning `normal')>
+\theoremstyle{problemstyle}
+\DeclareSIUnit[per-mode=symbol,per-symbol=p]{\Mbps}{\mega\bit\per\second}
+
+
+%----------------------------------------------------------------------------------------
+%	DOCUMENT STRUCTURE COMMANDS
+%	Skip this unless you know what you're doing
+%-------------------------------------------------------------------------------
+
+\newcommand\NoIndent[1]{%
+  \begingroup
+  \par
+  \parshape0
+  #1\par
+  \endgroup
+}
+
+\newtheorem{problem}{Problem}
+
+
+   
+%----------------------------------------------------------------------------------------
+%	NAME AND CLASS SECTION
+%----------------------------------------------------------------------------------------
+
+\newcommand{\hmwkTitle}{Assignment\ \#5} % Assignment title
+\newcommand{\hmwkDueDate}{Thursday,\ March\ 17,\ 2016} % Due date
+\newcommand{\hmwkClass}{CS\ 350} % Course/class
+\newcommand{\hmwkClassTime}{3:00 pm} % Class/lecture time
+\newcommand{\hmwkClassInstructor}{Bestavros} % Teacher/lecturer
+\newcommand{\hmwkAuthorName}{Ben Pusey} % Your name
+
+%----------------------------------------------------------------------------------------
+%	TITLE PAGE
+%----------------------------------------------------------------------------------------
+
+\title{
+\vspace{2in}
+\textmd{\textbf{\hmwkClass:\ \hmwkTitle}}\\
+\normalsize\vspace{0.1in}\small{Due\ on\ \hmwkDueDate}\\
+\vspace{0.1in}\large{\textit{\hmwkClassInstructor\ \hmwkClassTime}}
+\vspace{3in}
+}
+
+\author{\textbf{\hmwkAuthorName}}
+\date{} % Insert date here if you want it to appear below your name
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+\maketitle
+
+%----------------------------------------------------------------------------------------
+%	TABLE OF CONTENTS
+%----------------------------------------------------------------------------------------
+
+%\setcounter{tocdepth}{1} % Uncomment this line if you don't want subsections listed in the ToC
+
+\newpage
+
+
+%----------------------------------------------------------------------------------------
+%	PROBLEM 1
+%----------------------------------------------------------------------------------------
+
+% To have just one problem per page, simply put a \clearpage after each problem
+
+\textbf{Problem 2:}
+\\\\
+\textbf{FCFS}
+\begin{lstlisting}[breaklines]
+Low Lambda
+===================================================
+CLOCK: 100004.58204220934
+Rho: 0.0098266704691827
+IO System Time 0.012825090401281155
+CPU System Time 0.3120715908599175
+IO Tasks through system: 6029
+CPU Tasks through system: 2995
+===================================================
+Normal Lambda
+===================================================
+CLOCK: 100000.00494249418
+Rho: 0.9611812499997576
+IO System Time 7.156759764158426
+CPU System Time 7.436791653536298
+IO Tasks through system: 600654
+CPU Tasks through system: 300588
+===================================================
+\end{lstlisting}
+
+$\text{Slowdown I/O} = \frac{7.16}{.013} = 550$\\\\
+$\text{Slowdown CPU} = \frac{7.44}{.31} = 24$\\
+\\
+The slowdown for I/O is much longer than the slowdown for cpu because I/O jobs have to wait for the much longer cpu jobs ahead of them, and their optimal system times are very low.
+\\\\
+\newpage
+
+\textbf{SRTN}
+\begin{lstlisting}[breaklines]
+Low Lambdas
+===================================================
+CLOCK: 100022.04952596084
+Rho: 0.009745373282928895
+IO System Time 0.010058497904441464
+CPU System Time 0.30702980961107906
+IO Tasks through system: 6025
+CPU Tasks through system: 2993
+===================================================
+Normal Lambda
+===================================================
+CLOCK: 100000.23194325212
+Rho: 0.9589099005456027
+IO System Time 0.014010580748338622
+CPU System Time 1.44634390924814
+IO Tasks through system: 600748
+CPU Tasks through system: 298971
+===================================================
+\end{lstlisting}
+
+$\text{Slowdown I/O} = \frac{.014}{.01} = 1.4$\\\\
+$\text{Slowdown CPU} = \frac{1.45}{.3} = 4.8$\\
+
+The slowdown for I/O is lower than the slowdown for CPU because I/O tasks have priority over CPU tasks since their service time is lower.
+\\\\
+\newpage
+\textbf{RR}
+\begin{lstlisting}[breaklines]
+Low Lambdas
+===================================================
+CLOCK: 100020.82290120877
+Rho: 0.009837938942820677
+IO System Time 0.01049754071171709
+CPU System Time 0.30351451323802425
+IO Tasks through system: 5953
+CPU Tasks through system: 3070
+===================================================
+Normal Lambda
+===================================================
+CLOCK: 100000.02893491843
+Rho: 0.9615470237624546
+IO System Time 1.9791537542270279
+CPU System Time 7.383351984222936
+IO Tasks through system: 600051
+CPU Tasks through system: 300386
+===================================================
+\end{lstlisting}
+
+$\text{Slowdown I/O} = \frac{1.98}{.01} = 198$\\\\
+$\text{Slowdown CPU} = \frac{7.4}{.3} = 24.66$\\
+\\
+The lower slowdown of I/O in comparison to the I/Os Fifo slowdown makes sense as the time quantum is .1 so a I/O task only has to wait .1 seconds for CPU tasks ahead of them as opposed to their full service time.
+\\\\
+\newpage
+\textbf{HSN}
+\begin{lstlisting}[breaklines]
+Low Lambdas
+===================================================
+CLOCK: 100002.867397461
+Rho: 0.009363340133960237
+IO System Time 0.010516938701498349
+CPU System Time 0.2962037126131248
+IO Tasks through system: 6114
+CPU Tasks through system: 2971
+===================================================
+Normal Lambda
+===================================================
+CLOCK: 100000.07831014277
+Rho: 0.96003786142339
+IO System Time 0.1670700196483842
+CPU System Time 3.9945701548944794
+IO Tasks through system: 600314
+CPU Tasks through system: 300119
+===================================================
+\end{lstlisting}
+
+$\text{Slowdown I/O} = \frac{.17}{.01} = 17$\\\\
+$\text{Slowdown CPU} = \frac{4}{.3} = 13.33$\\
+
+The slowdown for I/O and CPU are similar because HSN attempts to minimize the slowdown of the tasks in the system by servicing tasks with higher slowdowns.\\
+
+\textbf{IO Slowdown Rankings}
+\begin{enumerate}
+	\item SRTN slowdown = 1.4
+	\item HSN slowdown = 17
+	\item RR slowdown = 198
+	\item FCFS slowdown = 550	
+\end{enumerate}
+
+\end{document}

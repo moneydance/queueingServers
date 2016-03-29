@@ -7,18 +7,27 @@ import java.util.PriorityQueue;
 
 public class ServerMMOneSimulate extends Simulate
 {
-    private PriorityQueue<Event> calander;
     private double max_time;
-    private ServerFifo server;
+    private Server server;
     private double clock;
 
-    public ServerMMOneSimulate(double max_time, boolean record_logs)
+    public ServerMMOneSimulate(double lambda_io, double lambda_cpu, double max_time, String st, boolean record_logs)
     {
         clock = 0.0;
         calander = new PriorityQueue<Event>();
-        server = new ServerFifo(record_logs);
-        calander.add(new EventBirth(clock));
-        calander.add(new EventMonitor(1, max_time));
+        if (st=="F")
+            server = new ServerFifo(record_logs);
+        else if (st=="S")
+            server = new ServerSrtn(record_logs);
+        else if (st=="R")
+            server = new ServerRr(record_logs);
+        else if (st=="H")
+            server = new ServerHsn(record_logs);
+        EventBirth.setLambdas(lambda_io, lambda_cpu);
+        calander.add(new EventBirth(clock, 0));
+        calander.add(new EventBirth(clock, 1));
+        if (record_logs)
+            calander.add(new EventMonitor(1, max_time));
         this.max_time = max_time;
     }
 
@@ -52,6 +61,12 @@ public class ServerMMOneSimulate extends Simulate
         {
             Event new_monitor = server.monitor(clock, max_time);
             calander.add(new_monitor);
+        }
+        else if (current_event instanceof EventCycle)
+        {
+            Event new_death_or_cycle_event = server.cycle(clock);
+            if (new_death_or_cycle_event != null)
+                calander.add(new_death_or_cycle_event);
         }
     }
 

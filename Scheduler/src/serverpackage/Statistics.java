@@ -31,8 +31,8 @@ public abstract class Statistics
     }
 
     abstract public void recordTimes(Task task);
-//    abstract public void recordLengths(int queue_length, int system_length);
     abstract public void printStats(double clock, double max_time);
+    abstract public void recordMonitor();
 
     public void writeStats(double clock, double max_time)
     {

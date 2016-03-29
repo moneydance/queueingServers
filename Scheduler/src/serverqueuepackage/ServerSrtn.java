@@ -10,14 +10,13 @@ import java.util.ArrayList;
 
 public class ServerSrtn extends Server
 {
-    private Queue task_queue;
+    private Srtn task_queue;
     private double monitor_rate;
     private EventDeath next_event_death;
-    public QueueStatistics stats;
 
     public ServerSrtn(boolean record_logs)
     {
-        task_queue = new Fifo();
+        task_queue = new Srtn();
         this.monitor_rate = 1;
         stats = new QueueStatistics(getServerType(), record_logs);
     }
@@ -42,8 +41,14 @@ public class ServerSrtn extends Server
             next_event_death = new EventDeath(arriving_task, clock);
             new_events.add(next_event_death);
         }
-        task_queue.enqueue(arriving_task);
-        new_events.add(new EventBirth(clock));
+        EventDeath new_death_event = task_queue.enqueue(arriving_task, clock);
+        if (new_death_event != null)
+        {
+           new_events.add(new_death_event);
+           Simulate.calander.remove(next_event_death);
+           next_event_death = new_death_event;
+        }
+        new_events.add(new EventBirth(clock, arriving_task.getTaskType()));
         return new_events;
     }
 
@@ -62,8 +67,13 @@ public class ServerSrtn extends Server
 
     public Event monitor(double clock, double max_time)
     {
-        stats.recordLengths(getQueueLength(), getSystemLength());
+        stats.recordMonitor();
         stats.writeStats(clock, max_time);
         return new EventMonitor(monitor_rate, clock);
+    }
+
+    public Event cycle(double clock)
+    {
+        return null;
     }
 }

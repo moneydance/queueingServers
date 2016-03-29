@@ -15,6 +15,10 @@ public class Hsn extends Queue
 
     public void enqueue(Task t)
     {
+        if (queue_length == 0)
+        {
+            current_task = t;
+        }
         task_queue.add(t);
         queue_length++;
     }
@@ -47,6 +51,8 @@ public class Hsn extends Queue
     {
         queue_length--;
         task_queue.remove(current_task);
-        return current_task;
+        Task temp = current_task;
+        current_task = null;
+        return temp;
     }
 }

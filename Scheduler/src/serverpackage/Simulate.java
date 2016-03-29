@@ -5,7 +5,7 @@ import java.util.PriorityQueue;
 
 public abstract class Simulate
 {
-    private PriorityQueue<Event> calander;
+    public static PriorityQueue<Event> calander;
     private double max_time;
     private Server server;
     private Statistics stats;
